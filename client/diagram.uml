@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="4121.000576569894" y="1046.5">app.ClientAbstractFactory</node>
+    <node x="199.0" y="1034.5">command.LoginCommand</node>
+    <node x="2992.5" y="638.5">app.Client</node>
+    <node x="862.0" y="847.0">command.ClientCommandManager</node>
+    <node x="4591.78074568529" y="616.0">reader.FileAsker</node>
+    <node x="3742.089456419" y="627.0">reader.ConsoleInputManager</node>
+    <node x="1777.0" y="638.5">connection.ResponseReader</node>
+    <node x="2173.758333333333" y="0.0">reader.Asker</node>
+    <node x="2160.906764111308" y="1484.0">app.Main</node>
+    <node x="2326.75" y="1057.5">connection.RequestSenderImpl</node>
+    <node x="1816.125" y="1068.5">connection.ResponseReaderImpl</node>
+    <node x="2110.0" y="638.5">connection.RequestSender</node>
+    <node x="2491.75" y="638.5">command.ClientCommand</node>
+    <node x="631.8472131824387" y="638.5">command.AuthCommand</node>
+    <node x="451.625" y="627.0">app.AuthModule</node>
+    <node x="0.0" y="1034.0">app.AuthModuleImpl</node>
+    <node x="530.0" y="1034.5">command.RegisterCommand</node>
+    <node x="3524.6672432365613" y="178.5">reader.InputManager</node>
+    <node x="1247.3928016428013" y="415.5">app.AbstractFactory</node>
+    <node x="4089.089456419" y="627.0">reader.FileInputManager</node>
+    <node x="3049.75" y="1034.5">app.ClientImpl</node>
+    <node x="3908.589456419" y="415.0">reader.AbstractInputManager</node>
+    <node x="4676.705546515772" y="426.0">reader.AbstractAsker</node>
+    <node x="4775.78074568529" y="594.0">reader.ConsoleAsker</node>
+    <node x="3365.75" y="1068.5">command.ExecuteScriptFileName</node>
+    <node x="3252.1672432365613" y="156.0">command.CommandManager</node>
+    <node x="2677.75" y="1068.5">command.ClientExitCommand</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="reader.AbstractInputManager" target="reader.InputManager">
+      <point x="109.33333333333326" y="-49.5" />
+      <point x="4181.922789752333" y="315.0" />
+      <point x="3629.452957522275" y="315.0" />
+      <point x="23.28571428571422" y="27.0" />
+    </edge>
+    <edge source="command.ExecuteScriptFileName" target="command.ClientCommand">
+      <point x="-140.39999999999964" y="-27.0" />
+      <point x="3400.8500000000004" y="787.0" />
+      <point x="2807.6499999999996" y="787.0" />
+      <point x="140.39999999999964" y="27.0" />
+    </edge>
+    <edge source="reader.FileInputManager" target="command.CommandManager">
+      <point x="100.33333333333326" y="-38.5" />
+      <point x="4339.922789752333" y="574.0" />
+      <point x="4331.333909903227" y="574.0" />
+      <point x="4331.333909903227" y="305.0" />
+      <point x="3429.0903201596384" y="305.0" />
+      <point x="76.9230769230769" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="command.RegisterCommand">
+      <point x="-119.25" y="-49.0" />
+      <point x="2280.156764111308" y="1414.0" />
+      <point x="686.0" y="1414.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="command.LoginCommand" target="app.AuthModule">
+      <point x="0.0" y="-61.0" />
+      <point x="348.5" y="797.0" />
+      <point x="476.0" y="797.0" />
+      <point x="-40.625" y="38.5" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="app.AbstractFactory">
+      <point x="59.59999999999991" y="-248.5" />
+      <point x="1368.6" y="767.0" />
+      <point x="1431.9837107337103" y="767.0" />
+      <point x="1431.9837107337103" y="574.0" />
+      <point x="1444.3928016428013" y="574.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="reader.ConsoleInputManager" target="command.CommandManager">
+      <point x="-109.0" y="-38.5" />
+      <point x="3796.589456419" y="574.0" />
+      <point x="3878.1672432365613" y="574.0" />
+      <point x="3878.1672432365613" y="345.0" />
+      <point x="3382.9364740057918" y="345.0" />
+      <point x="30.769230769230717" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="app.AbstractFactory">
+      <point x="-75.88636363636351" y="-49.0" />
+      <point x="2323.520400474944" y="1394.0" />
+      <point x="1766.5" y="1394.0" />
+      <point x="1766.5" y="574.0" />
+      <point x="1480.2109834609832" y="574.0" />
+      <point x="35.81818181818198" y="49.0" />
+    </edge>
+    <edge source="app.ClientImpl" target="reader.InputManager">
+      <point x="118.40000000000009" y="-61.0" />
+      <point x="3316.15" y="827.0" />
+      <point x="3420.781764111308" y="827.0" />
+      <point x="3420.781764111308" y="395.0" />
+      <point x="3582.8815289508466" y="395.0" />
+      <point x="-23.28571428571422" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="connection.RequestSenderImpl">
+      <point x="10.840909090909008" y="-49.0" />
+      <point x="2410.247673202217" y="1364.0" />
+      <point x="2491.75" y="1364.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="app.AuthModule">
+      <point x="-162.6136363636365" y="-49.0" />
+      <point x="2236.793127747671" y="1434.0" />
+      <point x="508.5" y="1434.0" />
+      <point x="-8.125" y="38.5" />
+    </edge>
+    <edge source="app.ClientImpl" target="command.CommandManager">
+      <point x="0.0" y="-61.0" />
+      <point x="3197.75" y="807.0" />
+      <point x="3335.2587107337104" y="807.0" />
+      <point x="3335.2587107337104" y="365.0" />
+      <point x="3352.1672432365613" y="365.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="reader.Asker">
+      <point x="-178.80000000000018" y="-248.5" />
+      <point x="1130.1999999999998" y="827.0" />
+      <point x="1132.5105533775975" y="827.0" />
+      <point x="1132.5105533775975" y="116.0" />
+      <point x="2214.758333333333" y="116.0" />
+      <point x="-41.0" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="app.ClientImpl">
+      <point x="97.56818181818198" y="-49.0" />
+      <point x="2496.97494592949" y="1404.0" />
+      <point x="3197.75" y="1404.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="connection.RequestSender">
+      <point x="298.0" y="-248.5" />
+      <point x="1607.0" y="807.0" />
+      <point x="2233.75" y="807.0" />
+      <point x="-41.25" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="connection.ResponseReaderImpl">
+      <point x="-54.204545454545496" y="-49.0" />
+      <point x="2345.202218656762" y="1384.0" />
+      <point x="1972.625" y="1384.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="connection.RequestSender">
+      <point x="-10.840909090909008" y="-49.0" />
+      <point x="2388.565855020399" y="1364.0" />
+      <point x="2316.25" y="1364.0" />
+      <point x="41.25" y="27.0" />
+    </edge>
+    <edge source="command.LoginCommand" target="app.AbstractFactory">
+      <point x="-119.59999999999991" y="-61.0" />
+      <point x="228.9000000000001" y="767.0" />
+      <point x="285.5095509288685" y="767.0" />
+      <point x="285.5095509288685" y="534.0" />
+      <point x="1265.3018925518923" y="534.0" />
+      <point x="-179.090909090909" y="49.0" />
+    </edge>
+    <edge source="command.RegisterCommand" target="command.AuthCommand">
+      <point x="2.2737367544323206E-13" y="-61.0" />
+      <point x="686.0000000000002" y="827.0" />
+      <point x="702.3472131824387" y="827.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="app.AuthModule">
+      <point x="-417.2000000000003" y="-248.5" />
+      <point x="891.7999999999997" y="787.0" />
+      <point x="557.25" y="787.0" />
+      <point x="40.625" y="38.5" />
+    </edge>
+    <edge source="app.ClientImpl" target="app.Client">
+      <point x="-118.39999999999986" y="-61.0" />
+      <point x="3079.3500000000004" y="827.0" />
+      <point x="3132.75" y="827.0" />
+      <point x="46.75" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="reader.ConsoleInputManager">
+      <point x="140.93181818181802" y="-49.0" />
+      <point x="2540.338582293126" y="1424.0" />
+      <point x="3872.1672432365613" y="1424.0" />
+      <point x="3872.1672432365613" y="827.0" />
+      <point x="3905.589456419" y="827.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="app.ClientAbstractFactory" target="app.AbstractFactory">
+      <point x="-164.16666666666674" y="-49.0" />
+      <point x="4153.833909903227" y="767.0" />
+      <point x="3409.781764111308" y="767.0" />
+      <point x="3409.781764111308" y="534.0" />
+      <point x="1623.4837107337103" y="534.0" />
+      <point x="179.090909090909" y="49.0" />
+    </edge>
+    <edge source="app.Main" target="connection.ResponseReader">
+      <point x="-32.52272727272748" y="-49.0" />
+      <point x="2366.88403683858" y="1374.0" />
+      <point x="2222.4375" y="1374.0" />
+      <point x="2222.4375" y="787.0" />
+      <point x="2050.875" y="787.0" />
+      <point x="117.375" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="app.Client">
+      <point x="75.88636363636351" y="-49.0" />
+      <point x="2475.293127747671" y="1394.0" />
+      <point x="3039.25" y="1394.0" />
+      <point x="-46.75" y="27.0" />
+    </edge>
+    <edge source="reader.AbstractInputManager" target="command.CommandManager">
+      <point x="-109.33333333333326" y="-49.5" />
+      <point x="3963.2561230856663" y="335.0" />
+      <point x="3398.3210893904075" y="335.0" />
+      <point x="46.15384615384619" y="49.5" />
+    </edge>
+    <edge source="reader.FileInputManager" target="reader.AbstractInputManager">
+      <point x="0.0" y="-38.5" />
+      <point x="4239.589456419" y="574.0" />
+      <point x="4195.589456419" y="574.0" />
+      <point x="123.0" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="command.ClientCommandManager">
+      <point x="-97.56818181818198" y="-49.0" />
+      <point x="2301.838582293126" y="1404.0" />
+      <point x="1309.0" y="1404.0" />
+      <point x="0.0" y="248.5" />
+    </edge>
+    <edge source="command.ClientExitCommand" target="command.ClientCommand">
+      <point x="-117.0" y="-27.0" />
+      <point x="2736.25" y="827.0" />
+      <point x="2737.45" y="827.0" />
+      <point x="70.19999999999982" y="27.0" />
+    </edge>
+    <edge source="command.RegisterCommand" target="app.AbstractFactory">
+      <point x="62.40000000000032" y="-61.0" />
+      <point x="748.4000000000003" y="827.0" />
+      <point x="801.9337107337101" y="827.0" />
+      <point x="801.9337107337101" y="554.0" />
+      <point x="1336.9382561882558" y="554.0" />
+      <point x="-107.4545454545455" y="49.0" />
+    </edge>
+    <edge source="command.ClientExitCommand" target="command.CommandManager">
+      <point x="117.0" y="-27.0" />
+      <point x="2970.25" y="827.0" />
+      <point x="2917.25" y="827.0" />
+      <point x="2917.25" y="345.0" />
+      <point x="3321.398012467331" y="345.0" />
+      <point x="-30.769230769230717" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="command.ClientExitCommand">
+      <point x="54.204545454545496" y="-49.0" />
+      <point x="2453.611309565853" y="1384.0" />
+      <point x="2853.25" y="1384.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="app.ClientAbstractFactory">
+      <point x="162.6136363636365" y="-49.0" />
+      <point x="2562.020400474944" y="1434.0" />
+      <point x="4318.000576569894" y="1434.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="reader.ConsoleAsker" target="reader.AbstractAsker">
+      <point x="43.0" y="-71.5" />
+      <point x="4904.78074568529" y="574.0" />
+      <point x="4828.955546515772" y="574.0" />
+      <point x="65.25" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="command.ExecuteScriptFileName">
+      <point x="119.25" y="-49.0" />
+      <point x="2518.656764111308" y="1414.0" />
+      <point x="3541.25" y="1414.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="reader.InputManager">
+      <point x="184.2954545454545" y="-49.0" />
+      <point x="2583.702218656762" y="1444.0" />
+      <point x="4581.28074568529" y="1444.0" />
+      <point x="4581.28074568529" y="275.0" />
+      <point x="3676.024386093704" y="275.0" />
+      <point x="69.85714285714289" y="27.0" />
+    </edge>
+    <edge source="app.AbstractFactory" target="command.CommandManager">
+      <point x="0.0" y="-49.0" />
+      <point x="1444.3928016428013" y="325.0" />
+      <point x="3290.6287816981" y="325.0" />
+      <point x="-61.53846153846143" y="49.5" />
+    </edge>
+    <edge source="command.ExecuteScriptFileName" target="reader.InputManager">
+      <point x="70.19999999999982" y="-27.0" />
+      <point x="3611.45" y="817.0" />
+      <point x="3680.089456419" y="817.0" />
+      <point x="3680.089456419" y="355.0" />
+      <point x="3606.1672432365613" y="355.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="reader.Asker">
+      <point x="227.659090909091" y="-49.0" />
+      <point x="2627.065855020399" y="1464.0" />
+      <point x="4958.28074568529" y="1464.0" />
+      <point x="4958.28074568529" y="96.0" />
+      <point x="2329.5583333333334" y="96.0" />
+      <point x="73.80000000000018" y="38.0" />
+    </edge>
+    <edge source="app.ClientAbstractFactory" target="reader.FileAsker">
+      <point x="164.16666666666674" y="-49.0" />
+      <point x="4482.167243236561" y="827.0" />
+      <point x="4673.78074568529" y="827.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="app.ClientAbstractFactory" target="reader.InputManager">
+      <point x="32.83333333333326" y="-49.0" />
+      <point x="4350.833909903227" y="807.0" />
+      <point x="4411.589456419" y="807.0" />
+      <point x="4411.589456419" y="285.0" />
+      <point x="3652.7386718079897" y="285.0" />
+      <point x="46.57142857142867" y="27.0" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="command.CommandManager">
+      <point x="-59.600000000000364" y="-248.5" />
+      <point x="1249.3999999999996" y="817.0" />
+      <point x="1154.5105533775975" y="817.0" />
+      <point x="1154.5105533775975" y="315.0" />
+      <point x="3275.244166313484" y="315.0" />
+      <point x="-76.9230769230769" y="49.5" />
+    </edge>
+    <edge source="app.AuthModuleImpl" target="app.AuthModule">
+      <point x="59.33333333333334" y="-61.5" />
+      <point x="148.33333333333348" y="787.0" />
+      <point x="459.75" y="787.0" />
+      <point x="-56.875" y="38.5" />
+    </edge>
+    <edge source="app.ClientAbstractFactory" target="reader.Asker">
+      <point x="98.5" y="-49.0" />
+      <point x="4416.500576569894" y="817.0" />
+      <point x="4498.922789752333" y="817.0" />
+      <point x="4498.922789752333" y="116.0" />
+      <point x="2296.758333333333" y="116.0" />
+      <point x="41.0" y="38.0" />
+    </edge>
+    <edge source="command.CommandManager" target="reader.Asker">
+      <point x="0.0" y="-49.5" />
+      <point x="3352.1672432365613" y="136.0" />
+      <point x="2263.958333333333" y="136.0" />
+      <point x="8.199999999999818" y="38.0" />
+    </edge>
+    <edge source="command.ClientExitCommand" target="app.AbstractFactory">
+      <point x="0.0" y="-27.0" />
+      <point x="2853.25" y="827.0" />
+      <point x="2906.25" y="827.0" />
+      <point x="2906.25" y="554.0" />
+      <point x="1551.8473470973468" y="554.0" />
+      <point x="107.4545454545455" y="49.0" />
+    </edge>
+    <edge source="command.LoginCommand" target="command.AuthCommand">
+      <point x="119.59999999999991" y="-61.0" />
+      <point x="468.0999999999999" y="817.0" />
+      <point x="645.9472131824386" y="817.0" />
+      <point x="-56.40000000000009" y="27.0" />
+    </edge>
+    <edge source="connection.ResponseReaderImpl" target="connection.ResponseReader">
+      <point x="0.0" y="-27.0" />
+      <point x="39.125" y="27.0" />
+    </edge>
+    <edge source="command.ExecuteScriptFileName" target="reader.Asker">
+      <point x="140.39999999999952" y="-27.0" />
+      <point x="3681.6499999999996" y="827.0" />
+      <point x="3731.589456419" y="827.0" />
+      <point x="3731.589456419" y="126.0" />
+      <point x="2280.358333333333" y="126.0" />
+      <point x="24.59999999999991" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="command.AuthCommand">
+      <point x="-140.93181818181802" y="-49.0" />
+      <point x="2258.47494592949" y="1424.0" />
+      <point x="519.5" y="1424.0" />
+      <point x="519.5" y="827.0" />
+      <point x="674.1472131824389" y="827.0" />
+      <point x="-28.199999999999818" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="command.ClientCommand">
+      <point x="32.522727272727025" y="-49.0" />
+      <point x="2431.929491384035" y="1374.0" />
+      <point x="2667.25" y="1374.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="command.ExecuteScriptFileName" target="command.CommandManager">
+      <point x="0.0" y="-27.0" />
+      <point x="3541.25" y="807.0" />
+      <point x="3654.75871073371" y="807.0" />
+      <point x="3654.75871073371" y="365.0" />
+      <point x="3367.5518586211765" y="365.0" />
+      <point x="15.384615384615472" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="app.AuthModuleImpl">
+      <point x="-227.659090909091" y="-49.0" />
+      <point x="2171.747673202217" y="1464.0" />
+      <point x="89.0" y="1464.0" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="reader.FileAsker" target="reader.AbstractAsker">
+      <point x="-41.0" y="-49.5" />
+      <point x="4632.78074568529" y="574.0" />
+      <point x="4698.455546515772" y="574.0" />
+      <point x="-65.25" y="38.5" />
+    </edge>
+    <edge source="reader.ConsoleInputManager" target="reader.AbstractInputManager">
+      <point x="109.0" y="-38.5" />
+      <point x="4014.589456419" y="574.0" />
+      <point x="4031.589456419" y="574.0" />
+      <point x="-41.0" y="49.5" />
+    </edge>
+    <edge source="command.ExecuteScriptFileName" target="app.AbstractFactory">
+      <point x="-70.19999999999982" y="-27.0" />
+      <point x="3471.05" y="777.0" />
+      <point x="3313.2587107337104" y="777.0" />
+      <point x="3313.2587107337104" y="544.0" />
+      <point x="1587.6655289155287" y="544.0" />
+      <point x="143.27272727272748" y="49.0" />
+    </edge>
+    <edge source="app.ClientAbstractFactory" target="command.CommandManager">
+      <point x="-32.83333333333326" y="-49.0" />
+      <point x="4285.167243236561" y="797.0" />
+      <point x="4400.589456419" y="797.0" />
+      <point x="4400.589456419" y="295.0" />
+      <point x="3444.4749355442536" y="295.0" />
+      <point x="92.30769230769238" y="49.5" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="command.ClientCommand">
+      <point x="357.5999999999999" y="-248.5" />
+      <point x="1666.6" y="817.0" />
+      <point x="2526.85" y="817.0" />
+      <point x="-140.4000000000001" y="27.0" />
+    </edge>
+    <edge source="app.ClientAbstractFactory" target="reader.FileInputManager">
+      <point x="-98.5" y="-49.0" />
+      <point x="4219.500576569894" y="827.0" />
+      <point x="4239.589456419" y="827.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="command.RegisterCommand" target="app.AuthModule">
+      <point x="-124.79999999999973" y="-61.0" />
+      <point x="561.2000000000003" y="807.0" />
+      <point x="524.75" y="807.0" />
+      <point x="8.125" y="38.5" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="command.AuthCommand">
+      <point x="-298.0" y="-248.5" />
+      <point x="1011.0" y="767.0" />
+      <point x="730.5472131824386" y="767.0" />
+      <point x="28.199999999999818" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="reader.ConsoleAsker">
+      <point x="205.97727272727298" y="-49.0" />
+      <point x="2605.384036838581" y="1454.0" />
+      <point x="4861.78074568529" y="1454.0" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="app.Main" target="command.LoginCommand">
+      <point x="-184.2954545454545" y="-49.0" />
+      <point x="2215.111309565853" y="1444.0" />
+      <point x="348.5" y="1444.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="command.ClientCommand" target="command.CommandManager">
+      <point x="87.75" y="-27.0" />
+      <point x="2755.0" y="574.0" />
+      <point x="2803.534550928869" y="574.0" />
+      <point x="2803.534550928869" y="335.0" />
+      <point x="3306.013397082715" y="335.0" />
+      <point x="-46.15384615384619" y="49.5" />
+    </edge>
+    <edge source="app.AbstractFactory" target="reader.Asker">
+      <point x="-131.33333333333348" y="-49.0" />
+      <point x="1313.0594683094678" y="295.0" />
+      <point x="1232.8166666666666" y="295.0" />
+      <point x="1232.8166666666666" y="136.0" />
+      <point x="2247.5583333333334" y="136.0" />
+      <point x="-8.199999999999818" y="38.0" />
+    </edge>
+    <edge source="connection.RequestSenderImpl" target="connection.RequestSender">
+      <point x="0.0" y="-38.0" />
+      <point x="2491.75" y="807.0" />
+      <point x="2398.75" y="807.0" />
+      <point x="123.75" y="27.0" />
+    </edge>
+    <edge source="command.ClientCommandManager" target="connection.ResponseReader">
+      <point x="119.19999999999982" y="-248.5" />
+      <point x="1428.1999999999998" y="777.0" />
+      <point x="1816.125" y="777.0" />
+      <point x="-117.375" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="command.CommandManager">
+      <point x="-205.97727272727298" y="-49.0" />
+      <point x="2193.429491384035" y="1454.0" />
+      <point x="188.5" y="1454.0" />
+      <point x="188.5" y="305.0" />
+      <point x="3259.859550928869" y="305.0" />
+      <point x="-92.30769230769238" y="49.5" />
+    </edge>
+    <edge source="app.AuthModuleImpl" target="reader.Asker">
+      <point x="-59.333333333333485" y="-61.5" />
+      <point x="29.666666666666515" y="827.0" />
+      <point x="53.833333333333485" y="827.0" />
+      <point x="53.833333333333485" y="96.0" />
+      <point x="2181.958333333333" y="96.0" />
+      <point x="-73.80000000000018" y="38.0" />
+    </edge>
+    <edge source="reader.AbstractAsker" target="reader.Asker">
+      <point x="0.0" y="-38.5" />
+      <point x="4763.705546515772" y="106.0" />
+      <point x="2313.1583333333333" y="106.0" />
+      <point x="57.40000000000009" y="38.0" />
+    </edge>
+    <edge source="app.AbstractFactory" target="reader.InputManager">
+      <point x="131.33333333333348" y="-49.0" />
+      <point x="1575.7261349761347" y="375.0" />
+      <point x="3536.310100379418" y="375.0" />
+      <point x="-69.85714285714289" y="27.0" />
+    </edge>
+    <edge source="command.ClientCommand" target="app.AbstractFactory">
+      <point x="-87.75" y="-27.0" />
+      <point x="2579.5" y="564.0" />
+      <point x="1516.0291652791648" y="564.0" />
+      <point x="71.63636363636351" y="49.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.40000000000000013" x="1697.2499999999995" y="547.4999999999999" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

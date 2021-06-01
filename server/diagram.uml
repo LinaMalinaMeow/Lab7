@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="9883.4769787286" y="44.0">data.VehicleDAO</node>
+    <node x="2475.3790620619334" y="1443.0">data.PSQLVehicleDAO</node>
+    <node x="6344.863337103349" y="88.0">command.AbstractCommand</node>
+    <node x="10199.4769787286" y="1565.5">data.DataWriter</node>
+    <node x="0.0" y="88.5">data.UsersDAO</node>
+    <node x="9557.4769787286" y="110.5">connection.ConnectionManager</node>
+    <node x="10101.1019787286" y="2060.0">data.FileDataWriter</node>
+    <node x="9423.2269787286" y="1520.5">connection.ServerImpl</node>
+    <node x="8237.379062061933" y="1520.5">command.Head</node>
+    <node x="8309.722216823839" y="0.0">collection.CollectionManager</node>
+    <node x="1027.7500000000005" y="110.5">connection.ResponseSender</node>
+    <node x="6030.379062061933" y="1520.5">command.RemoveHead</node>
+    <node x="12.5" y="2227.0">data.DataReader</node>
+    <node x="4583.379062061933" y="1531.5">command.UpdateIDElement</node>
+    <node x="4942.379062061933" y="1520.5">command.Clear</node>
+    <node x="2798.3790620619334" y="1487.5">command_manager.ServerCommandManager</node>
+    <node x="2610.7593889384466" y="99.5">data.AuthModule</node>
+    <node x="9763.4769787286" y="110.5">connection.Server</node>
+    <node x="6459.379062061933" y="1520.5">command.PrintAscending</node>
+    <node x="4621.959273182958" y="99.0">app.AbstractFactory</node>
+    <node x="7184.379062061933" y="1520.5">command.Show</node>
+    <node x="5234.379062061933" y="1531.5">command.PrintFieldAscendingNumberOfWheels</node>
+    <node x="237.32273294464903" y="1510.0">data.PSQLDAOFactory</node>
+    <node x="5056.143787434687" y="110.5">command.Command</node>
+    <node x="3656.3790620619334" y="1531.5">command.LoginCommand</node>
+    <node x="6896.379062061933" y="1520.5">command.Info</node>
+    <node x="7571.379062061933" y="1520.5">command.RemoveByID</node>
+    <node x="13.322732944649033" y="1531.5">data.AuthModuleImpl</node>
+    <node x="4149.6670311902635" y="2060.5">app.Main</node>
+    <node x="1541.4207287286004" y="1377.5">connection.ServerConnectionManager</node>
+    <node x="9105.379062061933" y="1531.5">command.Exit</node>
+    <node x="752.822732944649" y="110.5">data.CryptoModule</node>
+    <node x="3265.031250000001" y="122.5">command.AuthCommand</node>
+    <node x="0.0" y="2331.0">data.FileDataReader</node>
+    <node x="5699.379062061933" y="1531.5">command.AddElement</node>
+    <node x="779.322732944649" y="1565.5">data.SHA256CryptoModule</node>
+    <node x="1666.7500000000005" y="99.5">command_manager.CommandManager</node>
+    <node x="3975.3790620619334" y="1520.5">command.RegisterCommand</node>
+    <node x="2071.176899611316" y="110.5">connection.RequestReader</node>
+    <node x="3376.3790620619334" y="1554.0">app.AbstractFactoryImpl</node>
+    <node x="9934.4769787286" y="1355.0">collection.CollectionManagerImpl</node>
+    <node x="7905.379062061933" y="1531.5">command.RemoveFirst</node>
+    <node x="2190.926899611316" y="1565.5">connection.RequestReaderImpl</node>
+    <node x="470.32273294464903" y="1487.5">data.PSQLUsersDAO</node>
+    <node x="1443.7500000000005" y="88.0">connection.ServerConnectionManager.Client</node>
+    <node x="443.96666666666715" y="99.5">data.DAOFactory</node>
+    <node x="4308.379062061933" y="1542.5">command.Help</node>
+    <node x="992.322732944649" y="1543.5">connection.ResponseSenderImpl</node>
+    <node x="8623.379062061933" y="1520.5">command.MinByDistanceTravelled</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="app.Main" target="command.RegisterCommand">
+      <point x="-19.912500000000364" y="-60.5" />
+      <point x="4395.254531190263" y="1860.0" />
+      <point x="4131.379062061933" y="1860.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="command.UpdateIDElement" target="app.AbstractFactory">
+      <point x="-145.28571428571422" y="-61.0" />
+      <point x="4607.593347776219" y="865.0" />
+      <point x="4721.169799498748" y="865.0" />
+      <point x="-30.78947368421086" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="command.AddElement">
+      <point x="73.01249999999982" y="-60.5" />
+      <point x="4488.179531190263" y="1900.0" />
+      <point x="5854.879062061933" y="1900.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="command.PrintAscending" target="command.Command">
+      <point x="-59.57142857142844" y="-72.0" />
+      <point x="6608.307633490505" y="745.0" />
+      <point x="5209.88062953995" y="745.0" />
+      <point x="26.73684210526335" y="27.0" />
+    </edge>
+    <edge source="command.RegisterCommand" target="command.AbstractCommand">
+      <point x="136.5" y="-72.0" />
+      <point x="4267.879062061933" y="995.0" />
+      <point x="6369.800837103349" y="995.0" />
+      <point x="-89.0625" y="49.5" />
+    </edge>
+    <edge source="data.PSQLUsersDAO" target="data.DAOFactory">
+      <point x="-57.79999999999927" y="-105.0" />
+      <point x="557.0227329446498" y="695.0" />
+      <point x="532.3000000000002" y="695.0" />
+      <point x="-17.66666666666697" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="command.Command">
+      <point x="19.912500000000364" y="-60.5" />
+      <point x="4435.079531190264" y="1860.0" />
+      <point x="4572.879062061933" y="1860.0" />
+      <point x="4572.879062061933" y="935.0" />
+      <point x="5129.67010322416" y="935.0" />
+      <point x="-53.4736842105267" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="collection.CollectionManagerImpl">
+      <point x="258.8625000000002" y="-60.5" />
+      <point x="4674.029531190264" y="2040.0" />
+      <point x="9995.7269787286" y="2040.0" />
+      <point x="-61.25" y="237.5" />
+    </edge>
+    <edge source="connection.RequestReaderImpl" target="connection.RequestReader">
+      <point x="0.0" y="-27.0" />
+      <point x="2305.426899611316" y="695.0" />
+      <point x="2271.551899611316" y="695.0" />
+      <point x="85.875" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="data.PSQLUsersDAO">
+      <point x="-205.76249999999982" y="-60.5" />
+      <point x="4209.404531190264" y="2000.0" />
+      <point x="614.822732944649" y="2000.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="connection.ServerConnectionManager" target="command_manager.CommandManager">
+      <point x="-24.54166666666606" y="-215.0" />
+      <point x="1811.3790620619343" y="695.0" />
+      <point x="1775.8750000000005" y="695.0" />
+      <point x="-36.375" y="38.0" />
+    </edge>
+    <edge source="command.RemoveFirst" target="command.AbstractCommand">
+      <point x="44.57142857142844" y="-61.0" />
+      <point x="8105.950490633362" y="525.0" />
+      <point x="6526.550837103349" y="525.0" />
+      <point x="67.6875" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="command.Head">
+      <point x="165.9375" y="-60.5" />
+      <point x="4581.1045311902635" y="1970.0" />
+      <point x="8420.379062061933" y="1970.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="command.LoginCommand" target="command.Command">
+      <point x="56.0625" y="-61.0" />
+      <point x="3861.9415620619334" y="905.0" />
+      <point x="5089.564840066267" y="905.0" />
+      <point x="-93.57894736842081" y="27.0" />
+    </edge>
+    <edge source="command.PrintFieldAscendingNumberOfWheels" target="command.AbstractCommand">
+      <point x="63.57142857142844" y="-61.0" />
+      <point x="5520.450490633362" y="1075.0" />
+      <point x="6426.800837103349" y="1075.0" />
+      <point x="-32.0625" y="49.5" />
+    </edge>
+    <edge source="command_manager.ServerCommandManager" target="command.Command">
+      <point x="174.375" y="-105.0" />
+      <point x="3251.7540620619334" y="885.0" />
+      <point x="5062.827997961003" y="885.0" />
+      <point x="-120.31578947368416" y="27.0" />
+    </edge>
+    <edge source="command.Show" target="command.AbstractCommand">
+      <point x="52.42857142857156" y="-72.0" />
+      <point x="7420.307633490505" y="625.0" />
+      <point x="6498.050837103349" y="625.0" />
+      <point x="39.1875" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="data.SHA256CryptoModule">
+      <point x="-192.48749999999927" y="-60.5" />
+      <point x="4222.679531190264" y="1990.0" />
+      <point x="875.322732944649" y="1990.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="command.RegisterCommand" target="command.AuthCommand">
+      <point x="-58.5" y="-72.0" />
+      <point x="4072.8790620619334" y="535.0" />
+      <point x="3378.364583333334" y="535.0" />
+      <point x="45.33333333333303" y="15.0" />
+    </edge>
+    <edge source="command.LoginCommand" target="command.AbstractCommand">
+      <point x="93.4375" y="-61.0" />
+      <point x="3899.3165620619334" y="965.0" />
+      <point x="6348.425837103349" y="965.0" />
+      <point x="-110.4375" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="command.Info">
+      <point x="112.83749999999964" y="-60.5" />
+      <point x="4528.004531190263" y="1930.0" />
+      <point x="7030.379062061933" y="1930.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="command.RemoveFirst" target="command.Command">
+      <point x="-44.57142857142844" y="-61.0" />
+      <point x="8016.807633490505" y="545.0" />
+      <point x="5263.354313750477" y="545.0" />
+      <point x="80.21052631578914" y="27.0" />
+    </edge>
+    <edge source="command.UpdateIDElement" target="collection.CollectionManager">
+      <point x="96.85714285714289" y="-61.0" />
+      <point x="4849.736204919076" y="1125.0" />
+      <point x="8313.488883490505" y="1125.0" />
+      <point x="-109.23333333333335" y="137.5" />
+    </edge>
+    <edge source="command.Info" target="command.AbstractCommand">
+      <point x="38.28571428571422" y="-72.0" />
+      <point x="7068.664776347648" y="675.0" />
+      <point x="6483.800837103349" y="675.0" />
+      <point x="24.9375" y="49.5" />
+    </edge>
+    <edge source="command.AddElement" target="command.Command">
+      <point x="-44.42857142857156" y="-61.0" />
+      <point x="5810.450490633362" y="805.0" />
+      <point x="5183.143787434687" y="805.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="data.DAOFactory">
+      <point x="-219.03749999999945" y="-60.5" />
+      <point x="4196.129531190264" y="2010.0" />
+      <point x="459.82273294464903" y="2010.0" />
+      <point x="459.82273294464903" y="695.0" />
+      <point x="496.96666666666715" y="695.0" />
+      <point x="-53.0" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="connection.ConnectionManager">
+      <point x="219.03750000000036" y="-60.5" />
+      <point x="4634.204531190264" y="2010.0" />
+      <point x="9760.7269787286" y="2010.0" />
+      <point x="9760.7269787286" y="1315.0" />
+      <point x="9720.2269787286" y="1315.0" />
+      <point x="69.75" y="27.0" />
+    </edge>
+    <edge source="command.RemoveHead" target="command.Command">
+      <point x="-58.42857142857156" y="-72.0" />
+      <point x="6176.450490633362" y="775.0" />
+      <point x="5196.512208487318" y="775.0" />
+      <point x="13.368421052631675" y="27.0" />
+    </edge>
+    <edge source="data.FileDataReader" target="data.DataReader">
+      <point x="0.0" y="-61.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="data.PSQLUsersDAO" target="data.UsersDAO">
+      <point x="-115.60000000000036" y="-105.0" />
+      <point x="499.22273294464867" y="675.0" />
+      <point x="141.75" y="675.0" />
+      <point x="60.75" y="49.0" />
+    </edge>
+    <edge source="command.PrintAscending" target="command.AbstractCommand">
+      <point x="0.0" y="-72.0" />
+      <point x="6667.879062061933" y="735.0" />
+      <point x="6462.425837103349" y="735.0" />
+      <point x="3.5625" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="command.RemoveFirst">
+      <point x="152.66250000000036" y="-60.5" />
+      <point x="4567.829531190264" y="1960.0" />
+      <point x="8061.379062061933" y="1960.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="command.Help" target="app.AbstractFactory">
+      <point x="-101.60000000000036" y="-50.0" />
+      <point x="4333.779062061933" y="845.0" />
+      <point x="4707.485588972431" y="845.0" />
+      <point x="-44.4736842105267" y="38.5" />
+    </edge>
+    <edge source="command.Head" target="command.AbstractCommand">
+      <point x="0.0" y="-72.0" />
+      <point x="8420.379062061933" y="485.0" />
+      <point x="6533.675837103349" y="485.0" />
+      <point x="74.8125" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="connection.ServerImpl">
+      <point x="205.76249999999982" y="-60.5" />
+      <point x="4620.929531190263" y="2000.0" />
+      <point x="9586.7269787286" y="2000.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="app.Main" target="command_manager.ServerCommandManager">
+      <point x="-59.73750000000018" y="-60.5" />
+      <point x="4355.429531190263" y="1890.0" />
+      <point x="3077.3790620619334" y="1890.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="command.LoginCommand" target="command.AuthCommand">
+      <point x="-56.0625" y="-61.0" />
+      <point x="3749.8165620619334" y="565.0" />
+      <point x="3333.031250000001" y="565.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="app.Main" target="app.AbstractFactoryImpl">
+      <point x="-46.462499999999636" y="-60.5" />
+      <point x="4368.704531190264" y="1880.0" />
+      <point x="3506.3790620619334" y="1880.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="data.PSQLUsersDAO" target="data.CryptoModule">
+      <point x="57.79999999999927" y="-105.0" />
+      <point x="672.6227329446483" y="685.0" />
+      <point x="777.322732944649" y="685.0" />
+      <point x="-49.0" y="27.0" />
+    </edge>
+    <edge source="command.RemoveByID" target="collection.CollectionManager">
+      <point x="89.71428571428532" y="-72.0" />
+      <point x="7818.093347776219" y="1285.0" />
+      <point x="8434.022216823838" y="1285.0" />
+      <point x="11.299999999999955" y="137.5" />
+    </edge>
+    <edge source="connection.ServerImpl" target="collection.CollectionManager">
+      <point x="-130.79999999999995" y="-72.0" />
+      <point x="9455.9269787286" y="315.0" />
+      <point x="8516.888883490505" y="315.0" />
+      <point x="94.16666666666652" y="137.5" />
+    </edge>
+    <edge source="command.Show" target="command.Command">
+      <point x="-52.42857142857156" y="-72.0" />
+      <point x="7315.450490633362" y="645.0" />
+      <point x="5236.617471645213" y="645.0" />
+      <point x="53.4736842105267" y="27.0" />
+    </edge>
+    <edge source="command.PrintFieldAscendingNumberOfWheels" target="command.Command">
+      <point x="-63.57142857142867" y="-61.0" />
+      <point x="5393.3076334905045" y="835.0" />
+      <point x="5169.775366382055" y="835.0" />
+      <point x="-13.368421052631675" y="27.0" />
+    </edge>
+    <edge source="collection.CollectionManagerImpl" target="data.VehicleDAO">
+      <point x="0.0" y="-237.5" />
+      <point x="10056.9769787286" y="1335.0" />
+      <point x="10017.2269787286" y="1335.0" />
+      <point x="26.75" y="93.5" />
+    </edge>
+    <edge source="command.MinByDistanceTravelled" target="collection.CollectionManager">
+      <point x="132.00000000000045" y="-72.0" />
+      <point x="8986.379062061933" y="395.0" />
+      <point x="8479.222216823839" y="395.0" />
+      <point x="56.5" y="137.5" />
+    </edge>
+    <edge source="data.PSQLVehicleDAO" target="data.DAOFactory">
+      <point x="-121.19999999999982" y="-149.5" />
+      <point x="2505.6790620619336" y="635.0" />
+      <point x="602.9666666666672" y="635.0" />
+      <point x="53.0" y="38.0" />
+    </edge>
+    <edge source="command.Exit" target="command.AbstractCommand">
+      <point x="0.0" y="-61.0" />
+      <point x="9232.379062061933" y="355.0" />
+      <point x="6569.300837103349" y="355.0" />
+      <point x="110.4375" y="49.5" />
+    </edge>
+    <edge source="command.RemoveByID" target="command.AbstractCommand">
+      <point x="0.0" y="-72.0" />
+      <point x="7728.379062061933" y="585.0" />
+      <point x="6505.175837103349" y="585.0" />
+      <point x="46.3125" y="49.5" />
+    </edge>
+    <edge source="data.PSQLVehicleDAO" target="app.AbstractFactory">
+      <point x="0.0" y="-149.5" />
+      <point x="2626.8790620619334" y="745.0" />
+      <point x="4639.064536340853" y="745.0" />
+      <point x="-112.89473684210498" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="command_manager.CommandManager">
+      <point x="-152.66249999999945" y="-60.5" />
+      <point x="4262.504531190264" y="1960.0" />
+      <point x="1530.9207287286004" y="1960.0" />
+      <point x="1530.9207287286004" y="695.0" />
+      <point x="1703.1250000000005" y="695.0" />
+      <point x="-109.125" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="connection.Server">
+      <point x="232.3125" y="-60.5" />
+      <point x="4647.4795311902635" y="2020.0" />
+      <point x="9838.4769787286" y="2020.0" />
+      <point x="25.0" y="27.0" />
+    </edge>
+    <edge source="command.PrintAscending" target="collection.CollectionManager">
+      <point x="119.14285714285734" y="-72.0" />
+      <point x="6787.021919204791" y="1225.0" />
+      <point x="8388.822216823839" y="1225.0" />
+      <point x="-33.90000000000009" y="137.5" />
+    </edge>
+    <edge source="command.RemoveFirst" target="collection.CollectionManager">
+      <point x="89.14285714285734" y="-61.0" />
+      <point x="8150.521919204791" y="1305.0" />
+      <point x="8449.088883490505" y="1305.0" />
+      <point x="26.36666666666656" y="137.5" />
+    </edge>
+    <edge source="data.PSQLDAOFactory" target="data.DAOFactory">
+      <point x="0.0" y="-82.5" />
+      <point x="343.32273294464903" y="685.0" />
+      <point x="461.6333333333341" y="685.0" />
+      <point x="-88.33333333333303" y="38.0" />
+    </edge>
+    <edge source="command.PrintAscending" target="app.AbstractFactory">
+      <point x="-178.71428571428578" y="-72.0" />
+      <point x="6489.164776347648" y="765.0" />
+      <point x="4789.590852130326" y="765.0" />
+      <point x="37.631578947368325" y="38.5" />
+    </edge>
+    <edge source="command.RemoveByID" target="app.AbstractFactory">
+      <point x="-134.57142857142844" y="-72.0" />
+      <point x="7593.807633490505" y="615.0" />
+      <point x="4830.643483709275" y="615.0" />
+      <point x="78.68421052631584" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="command.LoginCommand">
+      <point x="-33.1875" y="-60.5" />
+      <point x="4381.9795311902635" y="1870.0" />
+      <point x="3805.8790620619334" y="1870.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="data.PSQLVehicleDAO" target="data.VehicleDAO">
+      <point x="121.19999999999982" y="-149.5" />
+      <point x="2748.079062061933" y="1335.0" />
+      <point x="9910.2269787286" y="1335.0" />
+      <point x="-80.25" y="93.5" />
+    </edge>
+    <edge source="app.Main" target="command.Clear">
+      <point x="46.462499999999636" y="-60.5" />
+      <point x="4461.629531190263" y="1880.0" />
+      <point x="5078.379062061933" y="1880.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="app.Main" target="connection.ResponseSender">
+      <point x="-179.21249999999964" y="-60.5" />
+      <point x="4235.954531190264" y="1980.0" />
+      <point x="981.822732944649" y="1980.0" />
+      <point x="981.822732944649" y="695.0" />
+      <point x="1077.2500000000005" y="695.0" />
+      <point x="-148.5" y="27.0" />
+    </edge>
+    <edge source="command.Info" target="command.Command">
+      <point x="-38.28571428571422" y="-72.0" />
+      <point x="6992.093347776219" y="695.0" />
+      <point x="5223.249050592582" y="695.0" />
+      <point x="40.105263157895024" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="connection.ServerConnectionManager">
+      <point x="-139.38749999999982" y="-60.5" />
+      <point x="4275.779531190264" y="1950.0" />
+      <point x="1688.6707287286004" y="1950.0" />
+      <point x="-147.25" y="215.0" />
+    </edge>
+    <edge source="app.Main" target="command.PrintFieldAscendingNumberOfWheels">
+      <point x="59.73750000000018" y="-60.5" />
+      <point x="4474.904531190264" y="1890.0" />
+      <point x="5456.879062061933" y="1890.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="command.Exit" target="collection.CollectionManager">
+      <point x="50.799999999999955" y="-61.0" />
+      <point x="9283.179062061932" y="345.0" />
+      <point x="8494.288883490504" y="345.0" />
+      <point x="71.5666666666666" y="137.5" />
+    </edge>
+    <edge source="command.Head" target="command.Command">
+      <point x="-52.285714285714675" y="-72.0" />
+      <point x="8368.09334777622" y="495.0" />
+      <point x="5276.722734803108" y="495.0" />
+      <point x="93.57894736842081" y="27.0" />
+    </edge>
+    <edge source="data.AuthModuleImpl" target="data.AuthModule">
+      <point x="68.0" y="-61.0" />
+      <point x="183.32273294464903" y="705.0" />
+      <point x="2621.1343889384466" y="705.0" />
+      <point x="-72.625" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="command.PrintAscending">
+      <point x="99.5625" y="-60.5" />
+      <point x="4514.7295311902635" y="1920.0" />
+      <point x="6667.879062061933" y="1920.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="collection.CollectionManagerImpl" target="collection.CollectionManager">
+      <point x="-81.66666666666669" y="-237.5" />
+      <point x="9975.310312061934" y="295.0" />
+      <point x="8531.95555015717" y="295.0" />
+      <point x="109.23333333333335" y="137.5" />
+    </edge>
+    <edge source="command.RemoveHead" target="command.AbstractCommand">
+      <point x="0.0" y="-72.0" />
+      <point x="6234.879062061933" y="1105.0" />
+      <point x="6448.175837103349" y="1105.0" />
+      <point x="-10.6875" y="49.5" />
+    </edge>
+    <edge source="command.MinByDistanceTravelled" target="app.AbstractFactory">
+      <point x="-197.99999999999955" y="-72.0" />
+      <point x="8656.379062061933" y="445.0" />
+      <point x="4871.696115288221" y="445.0" />
+      <point x="119.73684210526335" y="38.5" />
+    </edge>
+    <edge source="command.LoginCommand" target="data.AuthModule">
+      <point x="-130.8125" y="-61.0" />
+      <point x="3675.0665620619334" y="585.0" />
+      <point x="2704.1343889384466" y="585.0" />
+      <point x="10.375" y="38.0" />
+    </edge>
+    <edge source="command.PrintFieldAscendingNumberOfWheels" target="collection.CollectionManager">
+      <point x="127.14285714285711" y="-61.0" />
+      <point x="5584.021919204791" y="1165.0" />
+      <point x="8343.622216823838" y="1165.0" />
+      <point x="-79.09999999999991" y="137.5" />
+    </edge>
+    <edge source="command.RemoveFirst" target="app.AbstractFactory">
+      <point x="-133.71428571428578" y="-61.0" />
+      <point x="7927.664776347648" y="565.0" />
+      <point x="4844.32769423559" y="565.0" />
+      <point x="92.36842105263167" y="38.5" />
+    </edge>
+    <edge source="command.RemoveByID" target="command.Command">
+      <point x="-44.85714285714312" y="-72.0" />
+      <point x="7683.52191920479" y="595.0" />
+      <point x="5249.985892697845" y="595.0" />
+      <point x="66.84210526315837" y="27.0" />
+    </edge>
+    <edge source="connection.ServerConnectionManager" target="connection.ConnectionManager">
+      <point x="269.95833333333394" y="-215.0" />
+      <point x="2105.8790620619343" y="1325.0" />
+      <point x="9580.7269787286" y="1325.0" />
+      <point x="-69.75" y="27.0" />
+    </edge>
+    <edge source="command_manager.ServerCommandManager" target="data.AuthModule">
+      <point x="-104.625" y="-105.0" />
+      <point x="2972.7540620619334" y="595.0" />
+      <point x="2683.3843889384466" y="595.0" />
+      <point x="-10.375" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="data.AuthModuleImpl">
+      <point x="-245.58749999999964" y="-60.5" />
+      <point x="4169.579531190264" y="2030.0" />
+      <point x="115.32273294464903" y="2030.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="app.Main" target="app.AbstractFactory">
+      <point x="-6.637499999999818" y="-60.5" />
+      <point x="4408.529531190264" y="1850.0" />
+      <point x="4297.879062061933" y="1850.0" />
+      <point x="4297.879062061933" y="835.0" />
+      <point x="4700.643483709275" y="835.0" />
+      <point x="-51.31578947368416" y="38.5" />
+    </edge>
+    <edge source="command.Info" target="collection.CollectionManager">
+      <point x="76.57142857142844" y="-72.0" />
+      <point x="7106.950490633362" y="1245.0" />
+      <point x="8403.888883490505" y="1245.0" />
+      <point x="-18.833333333333258" y="137.5" />
+    </edge>
+    <edge source="command.UpdateIDElement" target="command.AbstractCommand">
+      <point x="0.0" y="-61.0" />
+      <point x="4752.879062061933" y="1025.0" />
+      <point x="6391.175837103349" y="1025.0" />
+      <point x="-67.6875" y="49.5" />
+    </edge>
+    <edge source="command.RemoveHead" target="collection.CollectionManager">
+      <point x="116.85714285714266" y="-72.0" />
+      <point x="6351.736204919076" y="1205.0" />
+      <point x="8373.755550157171" y="1205.0" />
+      <point x="-48.9666666666667" y="137.5" />
+    </edge>
+    <edge source="command.Head" target="collection.CollectionManager">
+      <point x="104.57142857142844" y="-72.0" />
+      <point x="8524.950490633362" y="465.0" />
+      <point x="8464.155550157171" y="465.0" />
+      <point x="41.433333333333394" y="137.5" />
+    </edge>
+    <edge source="command.Exit" target="command.Command">
+      <point x="-101.60000000000002" y="-61.0" />
+      <point x="9130.779062061933" y="375.0" />
+      <point x="5303.459576908372" y="375.0" />
+      <point x="120.31578947368416" y="27.0" />
+    </edge>
+    <edge source="data.FileDataWriter" target="data.DataWriter">
+      <point x="57.75" y="-61.0" />
+      <point x="10274.3519787286" y="2040.0" />
+      <point x="10314.9769787286" y="2040.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="data.AuthModule">
+      <point x="-86.28749999999945" y="-60.5" />
+      <point x="4328.879531190264" y="1910.0" />
+      <point x="2430.426899611316" y="1910.0" />
+      <point x="2430.426899611316" y="715.0" />
+      <point x="2641.8843889384466" y="715.0" />
+      <point x="-51.875" y="38.0" />
+    </edge>
+    <edge source="command.LoginCommand" target="app.AbstractFactory">
+      <point x="-18.6875" y="-61.0" />
+      <point x="3787.1915620619334" y="795.0" />
+      <point x="4673.275062656643" y="795.0" />
+      <point x="-78.68421052631584" y="38.5" />
+    </edge>
+    <edge source="connection.ResponseSenderImpl" target="connection.ResponseSender">
+      <point x="0.0" y="-49.0" />
+      <point x="1190.322732944649" y="695.0" />
+      <point x="1176.2500000000005" y="695.0" />
+      <point x="-49.5" y="27.0" />
+    </edge>
+    <edge source="app.AbstractFactoryImpl" target="app.AbstractFactory">
+      <point x="0.0" y="-38.5" />
+      <point x="3506.3790620619334" y="785.0" />
+      <point x="4666.432957393485" y="785.0" />
+      <point x="-85.5263157894733" y="38.5" />
+    </edge>
+    <edge source="command.PrintFieldAscendingNumberOfWheels" target="app.AbstractFactory">
+      <point x="-190.71428571428578" y="-61.0" />
+      <point x="5266.164776347648" y="855.0" />
+      <point x="4748.53822055138" y="855.0" />
+      <point x="-3.4210526315791867" y="38.5" />
+    </edge>
+    <edge source="connection.ServerConnectionManager" target="connection.ResponseSender">
+      <point x="-269.95833333333394" y="-215.0" />
+      <point x="1565.9623953952664" y="685.0" />
+      <point x="1275.2500000000005" y="685.0" />
+      <point x="49.5" y="27.0" />
+    </edge>
+    <edge source="connection.ServerConnectionManager" target="connection.ServerConnectionManager.Client">
+      <point x="-171.79166666666606" y="-215.0" />
+      <point x="1664.1290620619343" y="665.0" />
+      <point x="1477.5833333333344" y="665.0" />
+      <point x="-67.66666666666606" y="49.5" />
+    </edge>
+    <edge source="app.Main" target="command.RemoveHead">
+      <point x="86.28750000000036" y="-60.5" />
+      <point x="4501.454531190264" y="1910.0" />
+      <point x="6234.879062061933" y="1910.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="command.RegisterCommand" target="app.AbstractFactory">
+      <point x="-19.5" y="-72.0" />
+      <point x="4111.879062061933" y="815.0" />
+      <point x="4686.959273182958" y="815.0" />
+      <point x="-65.0" y="38.5" />
+    </edge>
+    <edge source="command.Clear" target="command.Command">
+      <point x="-38.85714285714266" y="-72.0" />
+      <point x="5039.521919204791" y="955.0" />
+      <point x="5156.406945329423" y="955.0" />
+      <point x="-26.73684210526335" y="27.0" />
+    </edge>
+    <edge source="command.RegisterCommand" target="data.AuthModule">
+      <point x="-136.5" y="-72.0" />
+      <point x="3994.8790620619334" y="555.0" />
+      <point x="2745.6343889384466" y="555.0" />
+      <point x="51.875" y="38.0" />
+    </edge>
+    <edge source="command_manager.ServerCommandManager" target="app.AbstractFactory">
+      <point x="34.875" y="-105.0" />
+      <point x="3112.2540620619334" y="765.0" />
+      <point x="4652.74874686717" y="765.0" />
+      <point x="-99.21052631578914" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="command.UpdateIDElement">
+      <point x="33.1875" y="-60.5" />
+      <point x="4448.3545311902635" y="1870.0" />
+      <point x="4752.879062061933" y="1870.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="app.Main" target="command.Help">
+      <point x="6.637499999999818" y="-60.5" />
+      <point x="4421.804531190263" y="1850.0" />
+      <point x="4435.379062061933" y="1850.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="command.Help" target="command.Command">
+      <point x="0.0" y="-50.0" />
+      <point x="4435.379062061933" y="925.0" />
+      <point x="5116.30168217153" y="925.0" />
+      <point x="-66.84210526315746" y="27.0" />
+    </edge>
+    <edge source="command.RemoveHead" target="app.AbstractFactory">
+      <point x="-175.28571428571422" y="-72.0" />
+      <point x="6059.593347776219" y="795.0" />
+      <point x="4775.906641604011" y="795.0" />
+      <point x="23.947368421052488" y="38.5" />
+    </edge>
+    <edge source="command.AddElement" target="app.AbstractFactory">
+      <point x="-133.28571428571377" y="-61.0" />
+      <point x="5721.593347776219" y="825.0" />
+      <point x="4762.222431077695" y="825.0" />
+      <point x="10.26315789473665" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="connection.RequestReaderImpl">
+      <point x="-99.5625" y="-60.5" />
+      <point x="4315.6045311902635" y="1920.0" />
+      <point x="2305.426899611316" y="1920.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="command.Show" target="collection.CollectionManager">
+      <point x="104.85714285714312" y="-72.0" />
+      <point x="7472.736204919076" y="1265.0" />
+      <point x="8418.95555015717" y="1265.0" />
+      <point x="-3.7666666666666515" y="137.5" />
+    </edge>
+    <edge source="data.AuthModuleImpl" target="data.UsersDAO">
+      <point x="-68.0" y="-61.0" />
+      <point x="47.32273294464903" y="1335.0" />
+      <point x="60.75" y="1335.0" />
+      <point x="-20.25" y="49.0" />
+    </edge>
+    <edge source="app.Main" target="collection.CollectionManager">
+      <point x="192.48750000000018" y="-60.5" />
+      <point x="4607.654531190264" y="1990.0" />
+      <point x="9412.7269787286" y="1990.0" />
+      <point x="9412.7269787286" y="325.0" />
+      <point x="8509.355550157172" y="325.0" />
+      <point x="86.63333333333321" y="137.5" />
+    </edge>
+    <edge source="command.MinByDistanceTravelled" target="command.AbstractCommand">
+      <point x="4.547473508864641E-13" y="-72.0" />
+      <point x="8854.379062061933" y="415.0" />
+      <point x="6547.925837103349" y="415.0" />
+      <point x="89.0625" y="49.5" />
+    </edge>
+    <edge source="command_manager.ServerCommandManager" target="command.AuthCommand">
+      <point x="-34.875" y="-105.0" />
+      <point x="3042.5040620619334" y="715.0" />
+      <point x="3287.697916666668" y="715.0" />
+      <point x="-45.33333333333303" y="15.0" />
+    </edge>
+    <edge source="connection.ServerConnectionManager.Client" target="connection.ServerConnectionManager">
+      <point x="67.66666666666606" y="49.5" />
+      <point x="1612.9166666666665" y="645.0" />
+      <point x="1762.2957287286004" y="645.0" />
+      <point x="-73.625" y="-215.0" />
+    </edge>
+    <edge source="app.Main" target="connection.RequestReader">
+      <point x="-112.83749999999964" y="-60.5" />
+      <point x="4302.329531190264" y="1930.0" />
+      <point x="2180.426899611316" y="1930.0" />
+      <point x="2180.426899611316" y="695.0" />
+      <point x="2214.301899611316" y="695.0" />
+      <point x="28.625" y="27.0" />
+    </edge>
+    <edge source="command.RegisterCommand" target="command.Command">
+      <point x="58.5" y="-72.0" />
+      <point x="4189.879062061933" y="915.0" />
+      <point x="5102.933261118898" y="915.0" />
+      <point x="-80.21052631578914" y="27.0" />
+    </edge>
+    <edge source="data.SHA256CryptoModule" target="data.CryptoModule">
+      <point x="0.0" y="-27.0" />
+      <point x="49.0" y="27.0" />
+    </edge>
+    <edge source="app.Main" target="connection.ResponseSenderImpl">
+      <point x="-165.9375" y="-60.5" />
+      <point x="4249.2295311902635" y="1970.0" />
+      <point x="1190.322732944649" y="1970.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="command_manager.ServerCommandManager" target="command_manager.CommandManager">
+      <point x="-244.125" y="-105.0" />
+      <point x="2833.2540620619334" y="615.0" />
+      <point x="1921.3750000000005" y="615.0" />
+      <point x="109.125" y="38.0" />
+    </edge>
+    <edge source="app.Main" target="command.MinByDistanceTravelled">
+      <point x="179.21249999999964" y="-60.5" />
+      <point x="4594.379531190263" y="1980.0" />
+      <point x="8854.379062061933" y="1980.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="app.Main" target="data.UsersDAO">
+      <point x="-258.8624999999993" y="-60.5" />
+      <point x="4156.304531190264" y="2040.0" />
+      <point x="2.822732944649033" y="2040.0" />
+      <point x="2.822732944649033" y="1335.0" />
+      <point x="20.25" y="1335.0" />
+      <point x="-60.75" y="49.0" />
+    </edge>
+    <edge source="connection.ServerConnectionManager" target="app.AbstractFactory">
+      <point x="171.79166666666606" y="-215.0" />
+      <point x="2007.7123953952664" y="725.0" />
+      <point x="4625.380325814538" y="725.0" />
+      <point x="-126.57894736842081" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="data.VehicleDAO">
+      <point x="245.58749999999964" y="-60.5" />
+      <point x="4660.754531190263" y="2030.0" />
+      <point x="9923.9769787286" y="2030.0" />
+      <point x="9923.9769787286" y="1335.0" />
+      <point x="9963.7269787286" y="1335.0" />
+      <point x="-26.75" y="93.5" />
+    </edge>
+    <edge source="command.Clear" target="app.AbstractFactory">
+      <point x="-77.71428571428578" y="-72.0" />
+      <point x="5000.664776347648" y="865.0" />
+      <point x="4741.696115288221" y="865.0" />
+      <point x="-10.26315789473665" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="data.PSQLVehicleDAO">
+      <point x="-73.01249999999982" y="-60.5" />
+      <point x="4342.154531190264" y="1900.0" />
+      <point x="2626.8790620619334" y="1900.0" />
+      <point x="0.0" y="149.5" />
+    </edge>
+    <edge source="connection.ServerImpl" target="connection.ConnectionManager">
+      <point x="0.0" y="-72.0" />
+      <point x="9586.7269787286" y="1325.0" />
+      <point x="9627.2269787286" y="1325.0" />
+      <point x="-23.25" y="27.0" />
+    </edge>
+    <edge source="command.Show" target="app.AbstractFactory">
+      <point x="-157.28571428571468" y="-72.0" />
+      <point x="7210.593347776219" y="665.0" />
+      <point x="4816.959273182958" y="665.0" />
+      <point x="65.0" y="38.5" />
+    </edge>
+    <edge source="command.Clear" target="command.AbstractCommand">
+      <point x="38.85714285714266" y="-72.0" />
+      <point x="5117.236204919076" y="1055.0" />
+      <point x="6412.550837103349" y="1055.0" />
+      <point x="-46.3125" y="49.5" />
+    </edge>
+    <edge source="command.AddElement" target="collection.CollectionManager">
+      <point x="88.85714285714312" y="-61.0" />
+      <point x="5943.736204919076" y="1185.0" />
+      <point x="8358.688883490504" y="1185.0" />
+      <point x="-64.0333333333333" y="137.5" />
+    </edge>
+    <edge source="command.UpdateIDElement" target="command.Command">
+      <point x="-48.42857142857133" y="-61.0" />
+      <point x="4704.450490633362" y="945.0" />
+      <point x="5143.038524276792" y="945.0" />
+      <point x="-40.105263157895024" y="27.0" />
+    </edge>
+    <edge source="data.FileDataWriter" target="collection.CollectionManagerImpl">
+      <point x="-57.75" y="-61.0" />
+      <point x="10158.8519787286" y="2040.0" />
+      <point x="10118.2269787286" y="2040.0" />
+      <point x="61.25" y="237.5" />
+    </edge>
+    <edge source="app.Main" target="data.PSQLDAOFactory">
+      <point x="-232.3125" y="-60.5" />
+      <point x="4182.8545311902635" y="2020.0" />
+      <point x="343.32273294464903" y="2020.0" />
+      <point x="0.0" y="82.5" />
+    </edge>
+    <edge source="command.MinByDistanceTravelled" target="command.Command">
+      <point x="-65.99999999999955" y="-72.0" />
+      <point x="8788.379062061933" y="425.0" />
+      <point x="5290.09115585574" y="425.0" />
+      <point x="106.94736842105249" y="27.0" />
+    </edge>
+    <edge source="command.AddElement" target="command.AbstractCommand">
+      <point x="0.0" y="-61.0" />
+      <point x="5854.879062061933" y="1085.0" />
+      <point x="6433.925837103349" y="1085.0" />
+      <point x="-24.9375" y="49.5" />
+    </edge>
+    <edge source="command.Head" target="app.AbstractFactory">
+      <point x="-156.85714285714312" y="-72.0" />
+      <point x="8263.52191920479" y="515.0" />
+      <point x="4858.011904761906" y="515.0" />
+      <point x="106.05263157894751" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="command.RemoveByID">
+      <point x="139.38749999999982" y="-60.5" />
+      <point x="4554.554531190263" y="1950.0" />
+      <point x="7728.379062061933" y="1950.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="command.Info" target="app.AbstractFactory">
+      <point x="-114.85714285714266" y="-72.0" />
+      <point x="6915.521919204791" y="715.0" />
+      <point x="4803.275062656643" y="715.0" />
+      <point x="51.31578947368416" y="38.5" />
+    </edge>
+    <edge source="app.Main" target="command.Show">
+      <point x="126.11250000000018" y="-60.5" />
+      <point x="4541.279531190264" y="1940.0" />
+      <point x="7367.879062061933" y="1940.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="command.Clear" target="collection.CollectionManager">
+      <point x="77.71428571428578" y="-72.0" />
+      <point x="5156.093347776219" y="1145.0" />
+      <point x="8328.555550157173" y="1145.0" />
+      <point x="-94.16666666666674" y="137.5" />
+    </edge>
+    <edge source="connection.ServerImpl" target="connection.Server">
+      <point x="130.79999999999995" y="-72.0" />
+      <point x="9717.526978728602" y="1325.0" />
+      <point x="9788.4769787286" y="1325.0" />
+      <point x="-25.0" y="27.0" />
+    </edge>
+    <edge source="connection.ServerConnectionManager" target="connection.RequestReader">
+      <point x="73.625" y="-215.0" />
+      <point x="1909.5457287286004" y="685.0" />
+      <point x="2099.801899611316" y="685.0" />
+      <point x="-85.875" y="27.0" />
+    </edge>
+    <edge source="command.Help" target="command.AbstractCommand">
+      <point x="50.80000000000018" y="-50.0" />
+      <point x="4486.179062061934" y="1005.0" />
+      <point x="6376.925837103349" y="1005.0" />
+      <point x="-81.9375" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.30000000000000016" x="1660.4999999999984" y="739.4285714285709" />
+  <SelectedNodes>
+    <node>data.DataWriter</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

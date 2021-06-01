@@ -1,0 +1,1348 @@
+27.05.2021 02:32:16.897 [main] ERROR  data.PSQLDAOFactory - Error. Can't connect to data base: exception class java.sql.SQLException
+27.05.2021 02:33:17.822 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:33:19.067 [main] DEBUG  c.CollectionManagerImpl - ��������� ��������� �� �����.
+27.05.2021 02:34:16.133 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - ���������� � �������� �����������.
+27.05.2021 02:34:19.195 [pool-1-thread-2] ERROR  c.ServerConnectionManager - ������ �� ����� ������ �������.
+27.05.2021 02:34:56.190 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:34:56.216 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 02:35:26.024 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:35:26.052 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 02:36:02.173 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:36:02.199 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 02:38:10.461 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:38:10.489 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 02:38:28.270 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 02:38:28.286 [Thread-2] INFO   c.ServerConnectionManager - Ошибка class java.lang.NullPointerException при обработке запроса: communication.RequestImpl@1f5af03
+27.05.2021 02:38:28.289 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 02:39:36.000 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 02:39:36.005 [Thread-4] INFO   c.ServerConnectionManager - Ошибка class java.lang.NullPointerException при обработке запроса: communication.RequestImpl@1a7ff93
+27.05.2021 02:39:36.006 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 02:39:38.025 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 02:39:38.026 [Thread-6] INFO   c.ServerConnectionManager - Ошибка class java.lang.NullPointerException при обработке запроса: communication.RequestImpl@792302
+27.05.2021 02:39:38.027 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 02:40:13.592 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:40:13.638 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 02:40:28.020 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 02:40:28.035 [Thread-2] INFO   c.ServerConnectionManager - Ошибка class java.lang.NullPointerException при обработке запроса: communication.RequestImpl@13480c9
+27.05.2021 02:40:28.038 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 02:42:38.032 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:42:38.062 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 02:42:43.374 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 02:42:43.389 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 02:43:54.532 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 02:43:54.558 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 02:44:01.166 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 02:44:01.179 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 02:44:01.182 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 12:16:43.914 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 12:16:44.062 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 12:17:34.719 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 12:17:34.744 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 12:17:47.359 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 12:17:47.373 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 12:17:47.375 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 12:18:26.884 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 12:18:26.909 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 12:18:40.279 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 12:18:40.936 [Thread-2] INFO   c.ServerConnectionManager - Ошибка class exceptions.PersistentException при обработке запроса: Request{type=EXECUTE, command='register', vehicle=null, arg='null', user=communication.UserImpl@10c8205}
+27.05.2021 12:18:40.939 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 12:22:22.265 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 12:22:22.297 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 12:22:49.075 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 12:22:49.085 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: register
+27.05.2021 12:22:49.516 [Thread-2] ERROR  c.RegisterCommand - Успешная регистрация test
+27.05.2021 12:22:49.518 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='register', vehicle=null, arg='null', user=communication.UserImpl@1765206} успешно обработан.
+27.05.2021 12:22:49.520 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 12:22:55.099 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 12:22:55.100 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 12:22:55.101 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 12:23:23.332 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 12:23:23.333 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 12:23:23.342 [Thread-6] INFO   c.ServerConnectionManager - Ошибка class exceptions.PersistentException при обработке запроса: Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@e3ab06}
+27.05.2021 12:23:23.343 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:53:21.136 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 13:53:21.376 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 13:53:34.655 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:53:34.676 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:53:34.676 [Thread-2] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для help
+27.05.2021 13:53:34.677 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='help', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 13:53:34.681 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:53:34.684 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:53:34.686 [Thread-4] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:53:34.686 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: help
+27.05.2021 13:53:34.686 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='help', vehicle=null, arg='', user=null} успешно обработан.
+27.05.2021 13:53:34.687 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:53:37.664 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:53:37.666 [Thread-6] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:53:37.666 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 13:53:37.666 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 13:53:37.666 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:53:37.667 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:53:37.668 [Thread-8] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:53:37.668 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 13:53:37.668 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=null} успешно обработан.
+27.05.2021 13:53:37.669 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:55:14.496 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 13:55:14.533 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 13:55:34.568 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:55:34.585 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:55:34.585 [Thread-2] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 13:55:34.586 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 13:55:34.590 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:55:34.594 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:55:34.596 [Thread-4] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:55:34.596 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 13:55:34.597 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=null} успешно обработан.
+27.05.2021 13:55:34.597 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:57:31.926 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 13:57:31.957 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 13:57:33.522 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:57:33.537 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:57:33.537 [Thread-2] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 13:57:33.538 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 13:57:33.541 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 13:57:33.544 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 13:57:33.545 [Thread-4] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:57:33.545 [Thread-4] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 13:57:33.545 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 13:57:33.546 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=null} успешно обработан.
+27.05.2021 13:57:33.546 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:00:17.168 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:00:17.210 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:00:23.230 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:00:23.247 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 14:00:23.249 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 14:00:23.253 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:00:56.491 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:00:56.592 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: register
+27.05.2021 14:00:56.700 [Thread-4] INFO   c.RegisterCommand - Ошибка при регистрации test
+27.05.2021 14:00:56.700 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='register', vehicle=null, arg='null', user=communication.UserImpl@18461ee} успешно обработан.
+27.05.2021 14:00:56.701 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:01:11.605 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:01:11.607 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:01:11.608 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@a3e5df} успешно обработан.
+27.05.2021 14:01:11.608 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:01:58.419 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:01:58.422 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:01:58.423 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@a82661} успешно обработан.
+27.05.2021 14:01:58.424 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:02:09.480 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:02:09.482 [Thread-10] DEBUG  c.ServerCommandManager - Выполнена команда: register
+27.05.2021 14:02:09.546 [Thread-10] INFO   c.RegisterCommand - Успешная регистрация 123
+27.05.2021 14:02:09.547 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='register', vehicle=null, arg='null', user=communication.UserImpl@163bf38} успешно обработан.
+27.05.2021 14:02:09.548 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:02:17.534 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:02:17.536 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:02:17.537 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@14bcce8} успешно обработан.
+27.05.2021 14:02:17.538 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:03:51.553 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:03:51.592 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:04:20.776 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:04:20.804 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:04:20.807 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1877b84} успешно обработан.
+27.05.2021 14:04:20.810 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:10:43.816 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:10:43.855 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:10:56.706 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:10:56.722 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 14:10:56.725 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 14:10:56.728 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:11:07.755 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:11:07.770 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:11:07.772 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@a8d797} успешно обработан.
+27.05.2021 14:11:07.773 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:12:08.318 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:12:08.349 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:12:32.954 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:12:32.980 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:12:32.982 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1877b84} успешно обработан.
+27.05.2021 14:12:32.986 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:18:01.157 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:18:01.198 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:18:12.553 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:18:12.581 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:18:12.585 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@e75b51} успешно обработан.
+27.05.2021 14:18:12.588 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:19:51.103 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:19:51.137 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:20:10.300 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:10.400 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 14:20:10.400 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: register
+27.05.2021 14:20:10.438 [Thread-2] INFO   c.RegisterCommand - Успешная регистрация 123
+27.05.2021 14:20:10.439 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='register', vehicle=null, arg='null', user=communication.UserImpl@ab4d7d} успешно обработан.
+27.05.2021 14:20:10.443 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:20:16.298 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:16.302 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:20:16.303 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@9987f9} успешно обработан.
+27.05.2021 14:20:16.303 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:20:19.327 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:19.329 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 14:20:19.330 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@7bf39e} успешно обработан.
+27.05.2021 14:20:19.331 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:20:19.332 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:19.334 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 14:20:19.334 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@18b42e1} успешно обработан.
+27.05.2021 14:20:19.335 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:20:22.356 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:22.358 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 14:20:22.359 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@1af566a} успешно обработан.
+27.05.2021 14:20:22.360 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:20:36.457 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:36.465 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 14:20:36.518 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 1503901988
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@100cb88} успешно обработан.
+27.05.2021 14:20:36.518 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:20:39.487 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:39.489 [Thread-14] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 14:20:39.490 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@12f7391} успешно обработан.
+27.05.2021 14:20:39.490 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:20:39.491 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:20:39.493 [Thread-16] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 14:20:39.497 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1d7b6c0} успешно обработан.
+27.05.2021 14:20:39.498 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:26:53.398 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:26:53.437 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:26:57.490 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:26:57.515 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:26:57.517 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@5f31e3} успешно обработан.
+27.05.2021 14:26:57.521 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:27:23.663 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:27:23.665 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 14:27:23.666 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@2d01cb} успешно обработан.
+27.05.2021 14:27:23.667 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:27:23.667 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:27:23.670 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 14:27:23.670 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@97c9cd} успешно обработан.
+27.05.2021 14:27:23.671 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:27:26.688 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:27:26.690 [Thread-8] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 14:27:26.691 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@1e99d71} успешно обработан.
+27.05.2021 14:27:26.691 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:27:35.751 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:27:35.760 [Thread-10] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 14:27:35.847 [Thread-10] INFO   c.ServerConnectionManager - Ошибка class java.lang.IllegalArgumentException при обработке запроса: Request{type=EXECUTE, command='add', vehicle=
+	ID: 1389996282
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@199db40}
+27.05.2021 14:27:35.848 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:27:42.792 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:27:42.794 [Thread-12] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 14:27:42.794 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@10f0ba2} успешно обработан.
+27.05.2021 14:27:42.795 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:27:42.796 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:27:42.798 [Thread-14] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 14:27:42.798 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1b1e104} успешно обработан.
+27.05.2021 14:27:42.799 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:56:25.396 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 14:56:25.467 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 14:56:38.697 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:56:38.715 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 14:56:38.717 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 14:56:38.721 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:56:46.753 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:56:46.800 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 14:56:46.802 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@37d96d} успешно обработан.
+27.05.2021 14:56:46.802 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:56:54.830 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:56:54.832 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 14:56:54.833 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@97c9cd} успешно обработан.
+27.05.2021 14:56:54.833 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:56:54.835 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:56:54.837 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 14:56:54.838 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1e99d71} успешно обработан.
+27.05.2021 14:56:54.839 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:56:58.871 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:56:58.873 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 14:56:58.873 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@191b019} успешно обработан.
+27.05.2021 14:56:58.874 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 14:57:09.962 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 14:57:09.971 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 14:57:10.018 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 930187947
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@111e929} успешно обработан.
+27.05.2021 14:57:10.018 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:23:22.884 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:23:22.914 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:23:36.209 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:23:36.232 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:23:36.234 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@5f31e3} успешно обработан.
+27.05.2021 15:23:36.238 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:23:40.226 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:23:40.228 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:23:40.229 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@2d01cb} успешно обработан.
+27.05.2021 15:23:40.230 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:23:50.352 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:23:50.361 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:23:50.372 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 1927227584
+	�?мя: 1
+	Координаты: (Coordinates{x=1.0, y=1.0})
+	Мощность двигателя: 1
+	Колёс: 1
+	Проехано: 1
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@135f79a} успешно обработан.
+27.05.2021 15:23:50.373 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:24:42.086 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:24:42.123 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:24:54.052 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:24:54.074 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:24:54.077 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@5f31e3} успешно обработан.
+27.05.2021 15:24:54.080 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:24:57.049 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:24:57.052 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:24:57.052 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@2d01cb} успешно обработан.
+27.05.2021 15:24:57.052 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:25:07.109 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:25:07.117 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:25:07.130 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 587855081
+	�?мя: 1
+	Координаты: (Coordinates{x=1.0, y=1.0})
+	Мощность двигателя: 1
+	Колёс: 1
+	Проехано: 1
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@1ed39f9} успешно обработан.
+27.05.2021 15:25:07.130 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:29:21.050 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:29:21.089 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:29:22.827 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:29:22.852 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:29:22.854 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@5f31e3} успешно обработан.
+27.05.2021 15:29:22.858 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:29:27.854 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:29:27.856 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:29:27.857 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@4fa0bb} успешно обработан.
+27.05.2021 15:29:27.858 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:29:36.935 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:29:36.943 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:29:37.003 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 87313277
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 1
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@35cb18} успешно обработан.
+27.05.2021 15:29:37.003 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:30:10.555 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:30:10.589 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:30:24.012 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:30:24.033 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:30:24.036 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1ecf6d3} успешно обработан.
+27.05.2021 15:30:24.039 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:30:27.013 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:30:27.015 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:30:27.015 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@2d01cb} успешно обработан.
+27.05.2021 15:30:27.016 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:30:40.104 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:30:40.111 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:30:40.323 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 1
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@1cbafcf} успешно обработан.
+27.05.2021 15:30:40.323 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:30:43.128 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:30:43.130 [Thread-8] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:30:43.130 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@8d5c48} успешно обработан.
+27.05.2021 15:30:43.131 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:30:43.132 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:30:43.134 [Thread-10] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:30:43.179 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@108cfe7} успешно обработан.
+27.05.2021 15:30:43.180 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:30:49.166 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:30:49.168 [Thread-12] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для head
+27.05.2021 15:30:49.169 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='head', vehicle=null, arg='null', user=communication.UserImpl@18ffeb6} успешно обработан.
+27.05.2021 15:30:49.170 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:30:49.170 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:30:49.172 [Thread-14] DEBUG  c.ServerCommandManager - Выполнена команда: head
+27.05.2021 15:30:49.173 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='head', vehicle=null, arg='', user=communication.UserImpl@164e35} успешно обработан.
+27.05.2021 15:30:49.173 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:31:01.265 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:31:01.267 [Thread-16] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 15:31:01.267 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@658cd8} успешно обработан.
+27.05.2021 15:31:01.268 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:31:01.269 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:31:01.272 [Thread-18] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 15:31:01.300 [Thread-18] ERROR  command.RemoveByID - class java.lang.IllegalMonitorStateException null
+27.05.2021 15:31:01.301 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='1', user=communication.UserImpl@ce5591} успешно обработан.
+27.05.2021 15:31:01.302 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:31:52.572 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:31:52.607 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:32:04.336 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:32:04.359 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:32:04.361 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@5f31e3} успешно обработан.
+27.05.2021 15:32:04.364 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:32:09.360 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:32:09.362 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:32:09.363 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@2d01cb} успешно обработан.
+27.05.2021 15:32:09.363 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:32:09.364 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:32:09.366 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:32:09.367 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@97c9cd} успешно обработан.
+27.05.2021 15:32:09.368 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:33:41.817 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:33:41.858 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:34:09.178 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:34:09.199 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 15:34:09.200 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:34:09.201 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 15:34:09.202 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@ab4d7d} успешно обработан.
+27.05.2021 15:34:09.205 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:34:15.190 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:34:15.193 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:34:15.195 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@14419d7} успешно обработан.
+27.05.2021 15:34:15.196 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:34:21.235 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:34:21.237 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:34:21.238 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@7bf39e} успешно обработан.
+27.05.2021 15:34:21.238 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:34:31.307 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:34:31.316 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:34:31.331 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 2
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@ccac5a} успешно обработан.
+27.05.2021 15:34:31.332 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:34:51.441 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:34:51.443 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 15:34:51.443 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@982d81} успешно обработан.
+27.05.2021 15:34:51.444 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:34:51.444 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:34:51.446 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 15:34:51.455 [Thread-12] ERROR  command.RemoveByID - class java.lang.IllegalMonitorStateException null
+27.05.2021 15:34:51.456 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='2', user=communication.UserImpl@a6f65d} успешно обработан.
+27.05.2021 15:34:51.456 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:37:15.428 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:37:15.476 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:37:20.840 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:37:20.862 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:37:20.864 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1e757c0} успешно обработан.
+27.05.2021 15:37:20.867 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:37:26.866 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:37:26.868 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:37:26.868 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@2d01cb} успешно обработан.
+27.05.2021 15:37:26.869 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:37:37.959 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:37:37.969 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:37:38.007 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 3
+	�?мя: 1
+	Координаты: (Coordinates{x=1.0, y=1.0})
+	Мощность двигателя: 1
+	Колёс: 1
+	Проехано: 1
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@cd67bd} успешно обработан.
+27.05.2021 15:37:38.007 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:37:48.021 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:37:48.023 [Thread-8] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:37:48.023 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@963a86} успешно обработан.
+27.05.2021 15:37:48.024 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:37:48.025 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:37:48.027 [Thread-10] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:37:48.030 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@c35769} успешно обработан.
+27.05.2021 15:37:48.031 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:37:56.068 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:37:56.069 [Thread-12] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 15:37:56.069 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@eacb33} успешно обработан.
+27.05.2021 15:37:56.070 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:37:56.071 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:37:56.074 [Thread-14] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 15:37:56.082 [Thread-14] ERROR  command.RemoveByID - class java.lang.IllegalMonitorStateException null
+27.05.2021 15:37:56.083 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='3', user=communication.UserImpl@a3cd1d} успешно обработан.
+27.05.2021 15:37:56.083 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:39:25.103 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:39:25.143 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:39:28.679 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:39:28.702 [Thread-2] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:39:28.704 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@1e757c0} успешно обработан.
+27.05.2021 15:39:28.707 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:39:38.732 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:39:38.741 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:39:38.754 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 4
+	�?мя: 1
+	Координаты: (Coordinates{x=1.0, y=1.0})
+	Мощность двигателя: 1
+	Колёс: 1
+	Проехано: 1
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@f8af2} успешно обработан.
+27.05.2021 15:39:38.754 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:39:47.783 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:39:47.784 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 15:39:47.784 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@15d5ee5} успешно обработан.
+27.05.2021 15:39:47.785 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:39:47.785 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:39:47.788 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 15:39:47.806 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='4', user=communication.UserImpl@162f49f} успешно обработан.
+27.05.2021 15:39:47.806 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:39:50.811 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:39:50.812 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:39:50.813 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@11a26c7} успешно обработан.
+27.05.2021 15:39:50.814 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:39:50.814 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:39:50.817 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:39:50.817 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1926c4f} успешно обработан.
+27.05.2021 15:39:50.818 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:39:53.824 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:39:53.826 [Thread-14] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:39:53.827 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@7d3332} успешно обработан.
+27.05.2021 15:39:53.827 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:40:07.893 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:40:07.897 [Thread-16] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:40:07.898 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 5
+	�?мя: 123
+	Координаты: (Coordinates{x=123.0, y=123.0})
+	Мощность двигателя: 123
+	Колёс: 123
+	Проехано: 13
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@1ce6799} успешно обработан.
+27.05.2021 15:40:07.899 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:40:16.931 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:40:16.934 [Thread-18] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 15:40:16.934 [Thread-18] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:40:16.935 [Thread-18] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 15:40:16.935 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1cd0b86} успешно обработан.
+27.05.2021 15:40:16.936 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:40:27.002 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:40:27.004 [Thread-20] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 15:40:27.004 [Thread-20] DEBUG  c.ServerCommandManager - Выполнена команда: register
+27.05.2021 15:40:27.005 [Thread-20] INFO   c.RegisterCommand - Успешная регистрация test
+27.05.2021 15:40:27.006 [Thread-20] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='register', vehicle=null, arg='null', user=communication.UserImpl@149f06e} успешно обработан.
+27.05.2021 15:40:27.006 [Thread-21] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:01.223 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:01.224 [Thread-22] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:41:01.225 [Thread-22] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1f47e17} успешно обработан.
+27.05.2021 15:41:01.225 [Thread-23] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:01.226 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:01.229 [Thread-24] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:41:01.232 [Thread-24] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@c4e709} успешно обработан.
+27.05.2021 15:41:01.232 [Thread-25] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:11.289 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:11.291 [Thread-26] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:41:11.292 [Thread-26] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1506041} успешно обработан.
+27.05.2021 15:41:11.293 [Thread-27] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:16.341 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:16.343 [Thread-28] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 15:41:16.344 [Thread-28] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@e2f303} успешно обработан.
+27.05.2021 15:41:16.344 [Thread-29] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:16.345 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:16.347 [Thread-30] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 15:41:16.349 [Thread-30] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='5', user=communication.UserImpl@156374a} успешно обработан.
+27.05.2021 15:41:16.349 [Thread-31] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:20.373 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:20.375 [Thread-32] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:41:20.376 [Thread-32] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1a85be5} успешно обработан.
+27.05.2021 15:41:20.376 [Thread-33] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:20.377 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:20.379 [Thread-34] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:41:20.380 [Thread-34] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@14582c4} успешно обработан.
+27.05.2021 15:41:20.380 [Thread-35] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:29.443 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:29.444 [Thread-36] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:41:29.444 [Thread-36] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@12878d2} успешно обработан.
+27.05.2021 15:41:29.445 [Thread-37] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:38.490 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:38.493 [Thread-38] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:41:38.495 [Thread-38] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 6
+	�?мя: 12
+	Координаты: (Coordinates{x=1.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@15561a3} успешно обработан.
+27.05.2021 15:41:38.495 [Thread-39] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:46.549 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:46.551 [Thread-40] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:41:46.552 [Thread-40] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@32c0c5} успешно обработан.
+27.05.2021 15:41:46.553 [Thread-41] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:53.594 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:53.596 [Thread-42] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 15:41:53.596 [Thread-42] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@c93912} успешно обработан.
+27.05.2021 15:41:53.597 [Thread-43] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:53.598 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:53.601 [Thread-44] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 15:41:53.601 [Thread-44] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='6', user=communication.UserImpl@1c0f0d} успешно обработан.
+27.05.2021 15:41:53.602 [Thread-45] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:58.631 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:58.633 [Thread-46] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:41:58.633 [Thread-46] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@6311d1} успешно обработан.
+27.05.2021 15:41:58.634 [Thread-47] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:41:58.635 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:41:58.637 [Thread-48] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:41:58.638 [Thread-48] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@137d1a8} успешно обработан.
+27.05.2021 15:41:58.638 [Thread-49] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:05.664 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:05.666 [Thread-50] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для clear
+27.05.2021 15:42:05.667 [Thread-50] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='clear', vehicle=null, arg='null', user=communication.UserImpl@9e4fe3} успешно обработан.
+27.05.2021 15:42:05.667 [Thread-51] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:05.667 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:05.670 [Thread-52] DEBUG  c.ServerCommandManager - Выполнена команда: clear
+27.05.2021 15:42:05.705 [Thread-52] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='clear', vehicle=null, arg='', user=communication.UserImpl@132d385} успешно обработан.
+27.05.2021 15:42:05.706 [Thread-53] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:08.685 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:08.687 [Thread-54] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:42:08.687 [Thread-54] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@5949e8} успешно обработан.
+27.05.2021 15:42:08.688 [Thread-55] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:08.688 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:08.691 [Thread-56] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:42:08.691 [Thread-56] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@176d05c} успешно обработан.
+27.05.2021 15:42:08.691 [Thread-57] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:21.788 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:21.790 [Thread-58] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_first
+27.05.2021 15:42:21.790 [Thread-58] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_first', vehicle=null, arg='null', user=communication.UserImpl@172d2ab} успешно обработан.
+27.05.2021 15:42:21.791 [Thread-59] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:21.792 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:21.794 [Thread-60] DEBUG  c.ServerCommandManager - Получена неизвестная команда: remove_first
+27.05.2021 15:42:21.794 [Thread-60] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_first', vehicle=null, arg='', user=communication.UserImpl@739cb5} успешно обработан.
+27.05.2021 15:42:21.795 [Thread-61] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:29.843 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:29.846 [Thread-62] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_head
+27.05.2021 15:42:29.846 [Thread-62] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_head', vehicle=null, arg='null', user=communication.UserImpl@a92cb3} успешно обработан.
+27.05.2021 15:42:29.847 [Thread-63] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:29.848 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:29.850 [Thread-64] DEBUG  c.ServerCommandManager - Выполнена команда: remove_head
+27.05.2021 15:42:29.852 [Thread-64] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_head', vehicle=null, arg='', user=communication.UserImpl@26bf37} успешно обработан.
+27.05.2021 15:42:29.852 [Thread-65] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:32.866 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:32.868 [Thread-66] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:42:32.868 [Thread-66] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@110f92d} успешно обработан.
+27.05.2021 15:42:32.868 [Thread-67] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:42:32.869 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:42:32.871 [Thread-68] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:42:32.872 [Thread-68] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1f3072c} успешно обработан.
+27.05.2021 15:42:32.873 [Thread-69] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:43:19.212 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:43:19.214 [Thread-70] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:43:19.215 [Thread-70] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@12a3f91} успешно обработан.
+27.05.2021 15:43:19.215 [Thread-71] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:43:22.239 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:43:22.241 [Thread-72] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:43:22.241 [Thread-72] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@1245c3b} успешно обработан.
+27.05.2021 15:43:22.242 [Thread-73] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:43:35.327 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:43:35.330 [Thread-74] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:43:35.333 [Thread-74] INFO   c.ServerConnectionManager - Ошибка class java.lang.IllegalArgumentException при обработке запроса: Request{type=EXECUTE, command='update', vehicle=
+	ID: 6
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='6', user=communication.UserImpl@1d395e7}
+27.05.2021 15:43:35.334 [Thread-75] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:44:22.151 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:44:22.191 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:44:24.675 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:44:24.697 [Thread-2] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:44:24.699 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@13e434e} успешно обработан.
+27.05.2021 15:44:24.702 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:44:38.771 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:44:38.779 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:44:38.792 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='update', vehicle=
+	ID: 6
+	�?мя: 123
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 1
+	Тип топлива: DIESEL, arg='6', user=communication.UserImpl@5a2697} успешно обработан.
+27.05.2021 15:44:38.793 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:44:43.802 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:44:43.804 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:44:43.804 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@14a2bd6} успешно обработан.
+27.05.2021 15:44:43.804 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:44:43.805 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:44:43.807 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:44:43.809 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@ff6e91} успешно обработан.
+27.05.2021 15:44:43.810 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:44:48.816 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:44:48.817 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:44:48.817 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@11c0c18} успешно обработан.
+27.05.2021 15:44:48.819 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:45:02.907 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:45:02.910 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:45:02.911 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='update', vehicle=
+	ID: 6
+	�?мя: namee
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 1
+	Тип топлива: DIESEL, arg='6', user=communication.UserImpl@3312d2} успешно обработан.
+27.05.2021 15:45:02.911 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:45:06.932 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:45:06.934 [Thread-14] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:45:06.935 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1355644} успешно обработан.
+27.05.2021 15:45:06.935 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:45:06.936 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:45:06.938 [Thread-16] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:45:06.939 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1a6c587} успешно обработан.
+27.05.2021 15:45:06.940 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:17.354 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:17.356 [Thread-18] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 15:46:17.357 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@10fc0fd} успешно обработан.
+27.05.2021 15:46:17.357 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:17.358 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:17.360 [Thread-20] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 15:46:17.380 [Thread-20] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='6', user=communication.UserImpl@869873} успешно обработан.
+27.05.2021 15:46:17.381 [Thread-21] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:20.374 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:20.377 [Thread-22] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:46:20.378 [Thread-22] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@ff266f} успешно обработан.
+27.05.2021 15:46:20.378 [Thread-23] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:20.378 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:20.380 [Thread-24] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:46:20.382 [Thread-24] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@24878c} успешно обработан.
+27.05.2021 15:46:20.382 [Thread-25] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:23.394 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:23.396 [Thread-26] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:46:23.396 [Thread-26] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@17dc9dd} успешно обработан.
+27.05.2021 15:46:23.397 [Thread-27] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:33.466 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:33.469 [Thread-28] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:46:33.471 [Thread-28] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 7
+	�?мя: name
+	Координаты: (Coordinates{x=1.0, y=2.0})
+	Мощность двигателя: 3
+	Колёс: 4
+	Проехано: 1
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@e23e99} успешно обработан.
+27.05.2021 15:46:33.471 [Thread-29] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:35.488 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:35.490 [Thread-30] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:46:35.490 [Thread-30] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@13f9d24} успешно обработан.
+27.05.2021 15:46:35.491 [Thread-31] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:35.491 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:35.494 [Thread-32] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:46:35.494 [Thread-32] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1df8583} успешно обработан.
+27.05.2021 15:46:35.495 [Thread-33] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:39.536 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:39.538 [Thread-34] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:46:39.538 [Thread-34] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@18f19a4} успешно обработан.
+27.05.2021 15:46:39.539 [Thread-35] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:46:51.629 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:46:51.632 [Thread-36] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:46:51.633 [Thread-36] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='update', vehicle=
+	ID: 7
+	�?мя: name
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 21
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='7', user=communication.UserImpl@11378be} успешно обработан.
+27.05.2021 15:46:51.633 [Thread-37] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:47:22.839 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:47:23.165 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:47:34.588 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:47:34.624 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 15:47:34.624 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:47:34.625 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class exceptions.LoginException
+27.05.2021 15:47:34.627 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@19b9358} успешно обработан.
+27.05.2021 15:47:34.631 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:47:39.610 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:47:39.612 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:47:39.613 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1cc710e} успешно обработан.
+27.05.2021 15:47:39.614 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:47:41.626 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:47:41.628 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 15:47:41.629 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@11302a1} успешно обработан.
+27.05.2021 15:47:41.630 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:47:52.681 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:47:52.689 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 15:47:52.707 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 8
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='', user=communication.UserImpl@f5a8b8} успешно обработан.
+27.05.2021 15:47:52.707 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:47:54.685 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:47:54.688 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:47:54.688 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@6fb304} успешно обработан.
+27.05.2021 15:47:54.689 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:47:54.689 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:47:54.692 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:47:54.699 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@4c576e} успешно обработан.
+27.05.2021 15:47:54.700 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:48:01.737 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:48:01.739 [Thread-14] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:48:01.740 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@ceb869} успешно обработан.
+27.05.2021 15:48:01.740 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:48:11.790 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:48:11.793 [Thread-16] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:49:05.485 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:49:05.550 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:49:10.556 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:49:10.570 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 15:49:10.572 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 15:49:10.576 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:49:17.591 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:49:17.598 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 15:49:17.599 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@7c9bb1} успешно обработан.
+27.05.2021 15:49:17.600 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:49:22.613 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:49:22.615 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:49:22.616 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@1c16be5} успешно обработан.
+27.05.2021 15:49:22.616 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:49:33.699 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:49:33.708 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:49:33.724 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='update', vehicle=
+	ID: 7
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='7', user=communication.UserImpl@14daf5e} успешно обработан.
+27.05.2021 15:49:33.725 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:51:36.615 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:51:36.676 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:51:39.572 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:51:39.597 [Thread-2] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:51:39.598 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@1711012} успешно обработан.
+27.05.2021 15:51:39.602 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:51:51.652 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:51:51.659 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:51:51.711 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='update', vehicle=
+	ID: 7
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='7', user=communication.UserImpl@1c0275d} успешно обработан.
+27.05.2021 15:51:51.712 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:52:11.636 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:52:11.686 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:52:17.805 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:52:17.836 [Thread-2] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для update
+27.05.2021 15:52:17.837 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='update', vehicle=null, arg='null', user=communication.UserImpl@13e434e} успешно обработан.
+27.05.2021 15:52:17.841 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:52:27.847 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:52:27.856 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: update
+27.05.2021 15:52:27.907 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='update', vehicle=
+	ID: 7
+	�?мя: 12
+	Координаты: (Coordinates{x=12.0, y=12.0})
+	Мощность двигателя: 12
+	Колёс: 12
+	Проехано: 12
+	Тип топлива: DIESEL, arg='7', user=communication.UserImpl@4579f3} успешно обработан.
+27.05.2021 15:52:27.907 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:52:30.877 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:52:30.878 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 15:52:30.878 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@829d84} успешно обработан.
+27.05.2021 15:52:30.879 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:52:30.879 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:52:30.882 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 15:52:30.884 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1c6b419} успешно обработан.
+27.05.2021 15:52:30.885 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:53:12.157 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:53:12.159 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для print_field_ascending_number_of_wheels
+27.05.2021 15:53:12.160 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='print_field_ascending_number_of_wheels', vehicle=null, arg='null', user=communication.UserImpl@182b21f} успешно обработан.
+27.05.2021 15:53:12.160 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:53:12.161 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:53:12.163 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: print_field_ascending_number_of_wheels
+27.05.2021 15:53:12.168 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='print_field_ascending_number_of_wheels', vehicle=null, arg='', user=communication.UserImpl@91a66d} успешно обработан.
+27.05.2021 15:53:12.169 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:53:22.211 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:53:22.213 [Thread-14] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для print_ascending
+27.05.2021 15:53:22.213 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='print_ascending', vehicle=null, arg='null', user=communication.UserImpl@9ff35} успешно обработан.
+27.05.2021 15:53:22.213 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:53:22.214 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:53:22.216 [Thread-16] DEBUG  c.ServerCommandManager - Выполнена команда: print_ascending
+27.05.2021 15:53:22.218 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='print_ascending', vehicle=null, arg='', user=communication.UserImpl@cdffb1} успешно обработан.
+27.05.2021 15:53:22.219 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:54:38.741 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:54:38.743 [Thread-18] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для min_by_distance_travelled
+27.05.2021 15:54:38.743 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='min_by_distance_travelled', vehicle=null, arg='null', user=communication.UserImpl@4366f3} успешно обработан.
+27.05.2021 15:54:38.745 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:54:38.745 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 15:54:38.747 [Thread-20] DEBUG  c.ServerCommandManager - Выполнена команда: min_by_distance_travelled
+27.05.2021 15:54:38.802 [Thread-20] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='min_by_distance_travelled', vehicle=null, arg='', user=communication.UserImpl@1102a4e} успешно обработан.
+27.05.2021 15:54:38.802 [Thread-21] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 15:55:19.673 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:55:19.725 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:56:30.987 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:56:31.027 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:57:07.105 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:57:07.140 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:57:27.061 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:57:27.101 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:58:07.840 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:58:07.891 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:59:14.706 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:59:14.765 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:59:24.429 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:59:24.466 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 15:59:58.585 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 15:59:58.636 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 18:35:35.593 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 18:35:35.903 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 20:40:31.753 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 20:40:31.785 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 20:41:04.520 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:04.533 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 20:41:04.534 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 20:41:04.536 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:14.630 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:14.694 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 20:41:14.695 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@117b61b} успешно обработан.
+27.05.2021 20:41:14.696 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:21.714 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:21.715 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для head
+27.05.2021 20:41:21.716 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='head', vehicle=null, arg='null', user=communication.UserImpl@6c75fe} успешно обработан.
+27.05.2021 20:41:21.716 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:21.717 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:21.719 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: head
+27.05.2021 20:41:21.719 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='head', vehicle=null, arg='', user=communication.UserImpl@1b14eec} успешно обработан.
+27.05.2021 20:41:21.719 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:29.815 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:29.817 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 20:41:29.817 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@205e79} успешно обработан.
+27.05.2021 20:41:29.818 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:29.818 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:29.820 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 20:41:29.909 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@b9bb5e} успешно обработан.
+27.05.2021 20:41:29.909 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:40.923 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:40.925 [Thread-14] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 20:41:40.925 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@329d4b} успешно обработан.
+27.05.2021 20:41:40.926 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:46.993 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:46.994 [Thread-16] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_first
+27.05.2021 20:41:46.995 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_first', vehicle=null, arg='null', user=communication.UserImpl@150580b} успешно обработан.
+27.05.2021 20:41:46.995 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:46.996 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:46.997 [Thread-18] DEBUG  c.ServerCommandManager - Получена неизвестная команда: remove_first
+27.05.2021 20:41:46.998 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_first', vehicle=null, arg='', user=communication.UserImpl@1053af8} успешно обработан.
+27.05.2021 20:41:46.998 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:55.046 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:55.048 [Thread-20] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_head
+27.05.2021 20:41:55.048 [Thread-20] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_head', vehicle=null, arg='null', user=communication.UserImpl@1e1e7af} успешно обработан.
+27.05.2021 20:41:55.048 [Thread-21] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:55.048 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:55.050 [Thread-22] DEBUG  c.ServerCommandManager - Выполнена команда: remove_head
+27.05.2021 20:41:55.142 [Thread-22] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_head', vehicle=null, arg='', user=communication.UserImpl@48e898} успешно обработан.
+27.05.2021 20:41:55.142 [Thread-23] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:58.083 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:58.085 [Thread-24] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для clear
+27.05.2021 20:41:58.085 [Thread-24] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='clear', vehicle=null, arg='null', user=communication.UserImpl@17776b6} успешно обработан.
+27.05.2021 20:41:58.085 [Thread-25] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:41:58.086 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:41:58.087 [Thread-26] DEBUG  c.ServerCommandManager - Выполнена команда: clear
+27.05.2021 20:41:58.171 [Thread-26] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='clear', vehicle=null, arg='', user=communication.UserImpl@fb506a} успешно обработан.
+27.05.2021 20:41:58.172 [Thread-27] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:42:08.163 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:42:08.164 [Thread-28] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_by_id
+27.05.2021 20:42:08.164 [Thread-28] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_by_id', vehicle=null, arg='null', user=communication.UserImpl@1cd0b86} успешно обработан.
+27.05.2021 20:42:08.164 [Thread-29] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:42:08.165 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:42:08.167 [Thread-30] DEBUG  c.ServerCommandManager - Выполнена команда: remove_by_id
+27.05.2021 20:42:08.171 [Thread-30] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_by_id', vehicle=null, arg='1', user=communication.UserImpl@15d00b4} успешно обработан.
+27.05.2021 20:42:08.171 [Thread-31] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:44:59.965 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 20:45:00.036 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 20:45:14.235 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:45:14.252 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 20:45:14.254 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@bb9d01} успешно обработан.
+27.05.2021 20:45:14.256 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:45:18.265 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:45:18.267 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_first
+27.05.2021 20:45:18.267 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_first', vehicle=null, arg='null', user=communication.UserImpl@2cff26} успешно обработан.
+27.05.2021 20:45:18.268 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:45:18.268 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:45:18.270 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: remove_first
+27.05.2021 20:45:18.402 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_first', vehicle=null, arg='', user=communication.UserImpl@70d7f8} успешно обработан.
+27.05.2021 20:45:18.402 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:45:21.294 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:45:21.296 [Thread-8] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 20:45:21.296 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1cea732} успешно обработан.
+27.05.2021 20:45:21.297 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:45:21.297 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:45:21.299 [Thread-10] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 20:45:21.311 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@175bdf9} успешно обработан.
+27.05.2021 20:45:21.312 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:45:41.490 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:45:41.492 [Thread-12] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для min_by_distance_travelled
+27.05.2021 20:45:41.492 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='min_by_distance_travelled', vehicle=null, arg='null', user=communication.UserImpl@1735a6f} успешно обработан.
+27.05.2021 20:45:41.493 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:45:41.494 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:45:41.495 [Thread-14] DEBUG  c.ServerCommandManager - Выполнена команда: min_by_distance_travelled
+27.05.2021 20:45:41.548 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='min_by_distance_travelled', vehicle=null, arg='', user=communication.UserImpl@a69f04} успешно обработан.
+27.05.2021 20:45:41.549 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:51:16.162 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 20:51:16.189 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 20:51:29.191 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:51:29.207 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 20:51:29.209 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@6d7e66} успешно обработан.
+27.05.2021 20:51:29.211 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:51:31.201 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:51:31.203 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 20:51:31.203 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1b14eec} успешно обработан.
+27.05.2021 20:51:31.203 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:51:31.204 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:51:31.206 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 20:51:31.209 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1647eee} успешно обработан.
+27.05.2021 20:51:31.209 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:51:45.359 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:51:45.361 [Thread-8] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для print_ascending
+27.05.2021 20:51:45.361 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='print_ascending', vehicle=null, arg='null', user=communication.UserImpl@7edd83} успешно обработан.
+27.05.2021 20:51:45.361 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 20:51:45.362 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 20:51:45.363 [Thread-10] DEBUG  c.ServerCommandManager - Выполнена команда: print_ascending
+27.05.2021 20:51:45.367 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='print_ascending', vehicle=null, arg='', user=communication.UserImpl@f3926d} успешно обработан.
+27.05.2021 20:51:45.368 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:03:02.601 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 21:03:02.797 [main] DEBUG  c.CollectionManagerImpl - РљРѕР»Р»РµРєС†РёСЏ Р·Р°РіСЂСѓР¶РµРЅР° РёР· С„Р°Р№Р»Р°.
+27.05.2021 21:08:23.675 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 21:08:23.789 [main] DEBUG  c.CollectionManagerImpl - ��������� ��������� �� �����.
+27.05.2021 21:09:25.499 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 21:09:25.701 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 21:09:33.149 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:09:33.197 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 21:09:33.199 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@a193bb} успешно обработан.
+27.05.2021 21:09:33.202 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:09:37.166 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:09:37.168 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 21:09:37.169 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@78991a} успешно обработан.
+27.05.2021 21:09:37.170 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:09:37.171 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:09:37.174 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 21:09:37.195 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1720796} успешно обработан.
+27.05.2021 21:09:37.195 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:16:20.370 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 21:16:20.773 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 21:16:31.971 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:16:32.278 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 21:16:32.382 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@ec452c} успешно обработан.
+27.05.2021 21:16:32.384 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:16:34.978 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:16:35.074 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 21:16:35.075 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@39d8b0} успешно обработан.
+27.05.2021 21:16:35.076 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:16:35.076 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:16:35.373 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 21:16:35.398 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1b685ad} успешно обработан.
+27.05.2021 21:16:35.398 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:16:40.017 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:16:40.105 [Thread-8] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для info
+27.05.2021 21:16:40.105 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=communication.UserImpl@d0473f} успешно обработан.
+27.05.2021 21:16:40.106 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:16:40.107 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:16:40.257 [Thread-10] DEBUG  c.ServerCommandManager - Выполнена команда: info
+27.05.2021 21:16:40.258 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='info', vehicle=null, arg='', user=communication.UserImpl@1aafd51} успешно обработан.
+27.05.2021 21:16:40.259 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:16:48.081 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:16:48.165 [Thread-12] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 21:16:48.166 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@d73303} успешно обработан.
+27.05.2021 21:16:48.166 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:17:09.223 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:17:09.403 [Thread-14] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 21:17:09.643 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 9
+	�?мя: name
+	Координаты: (Coordinates{x=12.0, y=89.0})
+	Мощность двигателя: 765
+	Колёс: 76
+	Проехано: 65
+	Тип топлива: ALCOHOL
+	Владелец: 123
+	Время создания27.05.2021, arg='', user=communication.UserImpl@b6ecc0} успешно обработан.
+27.05.2021 21:17:09.643 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:17:13.243 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:17:13.329 [Thread-16] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 21:17:13.330 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1476a7d} успешно обработан.
+27.05.2021 21:17:13.330 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:17:13.331 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:17:13.625 [Thread-18] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 21:17:13.626 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@134e548} успешно обработан.
+27.05.2021 21:17:13.626 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:18:11.990 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 21:18:12.173 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 21:18:31.923 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:18:32.126 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 21:18:32.202 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@1017b31} успешно обработан.
+27.05.2021 21:18:32.204 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:19:28.864 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:19:29.015 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 21:19:29.137 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@78991a} успешно обработан.
+27.05.2021 21:19:29.139 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:19:39.407 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:19:39.499 [Thread-6] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для info
+27.05.2021 21:19:39.499 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=communication.UserImpl@18f35f7} успешно обработан.
+27.05.2021 21:19:39.500 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:19:39.501 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:19:39.665 [Thread-8] DEBUG  c.ServerCommandManager - Выполнена команда: info
+27.05.2021 21:19:39.666 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='info', vehicle=null, arg='', user=communication.UserImpl@69f22b} успешно обработан.
+27.05.2021 21:19:39.667 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:19:40.934 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:19:41.057 [Thread-10] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 21:19:41.057 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@60f91d} успешно обработан.
+27.05.2021 21:19:41.058 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:19:41.059 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:19:41.235 [Thread-12] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 21:19:41.240 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@1b685ad} успешно обработан.
+27.05.2021 21:19:41.241 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:19:47.455 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:19:47.665 [Thread-14] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 21:19:47.666 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@199f064} успешно обработан.
+27.05.2021 21:19:47.668 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:14.137 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:14.260 [Thread-16] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 21:20:14.261 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@ac92b} успешно обработан.
+27.05.2021 21:20:14.262 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:14.263 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:14.457 [Thread-18] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 21:20:14.457 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@11ca7b9} успешно обработан.
+27.05.2021 21:20:14.458 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:15.625 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:15.806 [Thread-20] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 21:20:15.911 [Thread-20] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 10
+	�?мя: 123
+	Координаты: (Coordinates{x=12.0, y=3456.0})
+	Мощность двигателя: 22
+	Колёс: 54
+	Проехано: 34
+	Тип топлива: MANPOWER
+	Владелец: 123
+	Время создания27.05.2021, arg='', user=communication.UserImpl@c73441} успешно обработан.
+27.05.2021 21:20:15.914 [Thread-21] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:22.665 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:22.889 [Thread-22] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 21:20:22.890 [Thread-22] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1b341f9} успешно обработан.
+27.05.2021 21:20:22.890 [Thread-23] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:22.891 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:23.151 [Thread-24] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 21:20:23.152 [Thread-24] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@3312d2} успешно обработан.
+27.05.2021 21:20:23.153 [Thread-25] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:37.286 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:37.471 [Thread-26] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для remove_first
+27.05.2021 21:20:37.472 [Thread-26] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='remove_first', vehicle=null, arg='null', user=communication.UserImpl@1a6c587} успешно обработан.
+27.05.2021 21:20:37.472 [Thread-27] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:37.473 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:37.648 [Thread-28] DEBUG  c.ServerCommandManager - Выполнена команда: remove_first
+27.05.2021 21:20:37.653 [Thread-28] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='remove_first', vehicle=null, arg='', user=communication.UserImpl@1507fad} успешно обработан.
+27.05.2021 21:20:37.653 [Thread-29] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:46.359 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:46.491 [Thread-30] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для print_field_ascending_number_of_wheels
+27.05.2021 21:20:46.492 [Thread-30] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='print_field_ascending_number_of_wheels', vehicle=null, arg='null', user=communication.UserImpl@1540c0d} успешно обработан.
+27.05.2021 21:20:46.492 [Thread-31] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 21:20:46.493 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 21:20:46.775 [Thread-32] DEBUG  c.ServerCommandManager - Выполнена команда: print_field_ascending_number_of_wheels
+27.05.2021 21:20:46.779 [Thread-32] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='print_field_ascending_number_of_wheels', vehicle=null, arg='', user=communication.UserImpl@8cf848} успешно обработан.
+27.05.2021 21:20:46.780 [Thread-33] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 22:03:12.701 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 22:03:13.053 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 22:03:44.350 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 22:03:44.492 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 22:03:44.493 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 22:03:44.497 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 22:03:50.405 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 22:03:50.499 [Thread-4] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 22:03:50.568 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@5697b3} успешно обработан.
+27.05.2021 22:03:50.569 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:34:40.626 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 23:34:40.979 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 23:36:11.995 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:36:12.132 [Thread-2] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 23:36:12.207 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@190f327} успешно обработан.
+27.05.2021 23:36:12.210 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:36:14.008 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:36:14.113 [Thread-4] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 23:36:14.114 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@14eba40} успешно обработан.
+27.05.2021 23:36:14.114 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:36:14.115 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:36:14.269 [Thread-6] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 23:36:14.282 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@670af3} успешно обработан.
+27.05.2021 23:36:14.283 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:36:48.336 [main] INFO   data.PSQLDAOFactory - Successfully connected to the data base.
+27.05.2021 23:36:48.624 [main] DEBUG  c.CollectionManagerImpl - Коллекция загружена из файла.
+27.05.2021 23:37:10.173 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.267 [Thread-2] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.268 [Thread-2] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.272 [Thread-3] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.274 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.339 [Thread-4] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.339 [Thread-4] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='Name', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.340 [Thread-5] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.341 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.419 [Thread-6] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.420 [Thread-6] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='123', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.420 [Thread-7] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.421 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.510 [Thread-8] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.511 [Thread-8] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='7890', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.511 [Thread-9] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.512 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.582 [Thread-10] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.582 [Thread-10] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='3456', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.583 [Thread-11] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.584 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.651 [Thread-12] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.651 [Thread-12] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='34', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.652 [Thread-13] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.652 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.720 [Thread-14] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.720 [Thread-14] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='23456789', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.721 [Thread-15] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.722 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.783 [Thread-16] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.784 [Thread-16] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='manpower', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.784 [Thread-17] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:10.785 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:10.850 [Thread-18] ERROR  data.PSQLUsersDAO - Ошибка во время авторизации: class java.lang.NullPointerException
+27.05.2021 23:37:10.850 [Thread-18] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=null} успешно обработан.
+27.05.2021 23:37:10.851 [Thread-19] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:17.163 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:17.235 [Thread-20] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 23:37:17.299 [Thread-20] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@105791f} успешно обработан.
+27.05.2021 23:37:17.299 [Thread-21] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:23.220 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:23.324 [Thread-22] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 23:37:23.324 [Thread-22] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@10ad1ea} успешно обработан.
+27.05.2021 23:37:23.325 [Thread-23] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:23.335 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:23.492 [Thread-24] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 23:37:23.704 [Thread-24] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 11
+	�?мя: Name
+	Координаты: (Coordinates{x=123.0, y=7890.0})
+	Мощность двигателя: 3456
+	Колёс: 34
+	Проехано: 23456789
+	Тип топлива: null
+	Владелец: 123
+	Время создания27.05.2021, arg='', user=communication.UserImpl@1a3938c} успешно обработан.
+27.05.2021 23:37:23.704 [Thread-25] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:23.705 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:23.771 [Thread-26] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для info
+27.05.2021 23:37:23.772 [Thread-26] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=communication.UserImpl@77872c} успешно обработан.
+27.05.2021 23:37:23.772 [Thread-27] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:23.773 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:23.910 [Thread-28] DEBUG  c.ServerCommandManager - Выполнена команда: info
+27.05.2021 23:37:23.910 [Thread-28] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='info', vehicle=null, arg='', user=communication.UserImpl@17cf629} успешно обработан.
+27.05.2021 23:37:23.911 [Thread-29] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:30.286 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:30.352 [Thread-30] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 23:37:30.353 [Thread-30] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@970115} успешно обработан.
+27.05.2021 23:37:30.353 [Thread-31] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:30.357 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:30.493 [Thread-32] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 23:37:30.675 [Thread-32] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 12
+	�?мя: Name
+	Координаты: (Coordinates{x=123.0, y=7890.0})
+	Мощность двигателя: 3456
+	Колёс: 34
+	Проехано: 23456789
+	Тип топлива: null
+	Владелец: 123
+	Время создания27.05.2021, arg='', user=communication.UserImpl@1559700} успешно обработан.
+27.05.2021 23:37:30.675 [Thread-33] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:30.676 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:30.769 [Thread-34] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для info
+27.05.2021 23:37:30.770 [Thread-34] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=communication.UserImpl@11ba727} успешно обработан.
+27.05.2021 23:37:30.770 [Thread-35] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:30.771 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:30.914 [Thread-36] DEBUG  c.ServerCommandManager - Выполнена команда: info
+27.05.2021 23:37:30.914 [Thread-36] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='info', vehicle=null, arg='', user=communication.UserImpl@b8ae1a} успешно обработан.
+27.05.2021 23:37:30.915 [Thread-37] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:40.412 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:40.481 [Thread-38] DEBUG  c.ServerCommandManager - Выполнена команда: login
+27.05.2021 23:37:40.660 [Thread-38] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='login', vehicle=null, arg='null', user=communication.UserImpl@18c49a7} успешно обработан.
+27.05.2021 23:37:40.663 [Thread-39] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:42.435 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:42.503 [Thread-40] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для add
+27.05.2021 23:37:42.503 [Thread-40] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='add', vehicle=null, arg='null', user=communication.UserImpl@491758} успешно обработан.
+27.05.2021 23:37:42.504 [Thread-41] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:42.507 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:42.666 [Thread-42] DEBUG  c.ServerCommandManager - Выполнена команда: add
+27.05.2021 23:37:42.794 [Thread-42] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='add', vehicle=
+	ID: 13
+	�?мя: Name
+	Координаты: (Coordinates{x=123.0, y=7890.0})
+	Мощность двигателя: 3456
+	Колёс: 34
+	Проехано: 23456789
+	Тип топлива: null
+	Владелец: test
+	Время создания27.05.2021, arg='', user=communication.UserImpl@1049644} успешно обработан.
+27.05.2021 23:37:42.795 [Thread-43] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:42.796 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:42.861 [Thread-44] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для info
+27.05.2021 23:37:42.862 [Thread-44] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=communication.UserImpl@16faebd} успешно обработан.
+27.05.2021 23:37:42.862 [Thread-45] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:42.863 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:42.997 [Thread-46] DEBUG  c.ServerCommandManager - Выполнена команда: info
+27.05.2021 23:37:42.997 [Thread-46] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='info', vehicle=null, arg='', user=communication.UserImpl@34daae} успешно обработан.
+27.05.2021 23:37:42.998 [Thread-47] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:47.498 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:47.561 [Thread-48] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для clear
+27.05.2021 23:37:47.561 [Thread-48] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='clear', vehicle=null, arg='null', user=communication.UserImpl@1c6a31d} успешно обработан.
+27.05.2021 23:37:47.562 [Thread-49] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:47.563 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:47.712 [Thread-50] DEBUG  c.ServerCommandManager - Выполнена команда: clear
+27.05.2021 23:37:47.876 [Thread-50] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='clear', vehicle=null, arg='', user=communication.UserImpl@13b6cbd} успешно обработан.
+27.05.2021 23:37:47.877 [Thread-51] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:50.524 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:50.585 [Thread-52] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для info
+27.05.2021 23:37:50.585 [Thread-52] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=communication.UserImpl@aa2327} успешно обработан.
+27.05.2021 23:37:50.586 [Thread-53] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:50.586 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:50.833 [Thread-54] DEBUG  c.ServerCommandManager - Выполнена команда: info
+27.05.2021 23:37:50.833 [Thread-54] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='info', vehicle=null, arg='', user=communication.UserImpl@93fdd2} успешно обработан.
+27.05.2021 23:37:50.834 [Thread-55] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:56.601 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:56.666 [Thread-56] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для show
+27.05.2021 23:37:56.666 [Thread-56] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='show', vehicle=null, arg='null', user=communication.UserImpl@1937099} успешно обработан.
+27.05.2021 23:37:56.667 [Thread-57] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:37:56.667 [pool-1-thread-2] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:37:56.803 [Thread-58] DEBUG  c.ServerCommandManager - Выполнена команда: show
+27.05.2021 23:37:56.808 [Thread-58] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='show', vehicle=null, arg='', user=communication.UserImpl@19ebb93} успешно обработан.
+27.05.2021 23:37:56.808 [Thread-59] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:38:01.653 [pool-1-thread-5] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:38:01.723 [Thread-60] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для clear
+27.05.2021 23:38:01.723 [Thread-60] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='clear', vehicle=null, arg='null', user=communication.UserImpl@1cb236f} успешно обработан.
+27.05.2021 23:38:01.723 [Thread-61] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:38:01.724 [pool-1-thread-1] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:38:01.852 [Thread-62] DEBUG  c.ServerCommandManager - Выполнена команда: clear
+27.05.2021 23:38:01.923 [Thread-62] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='clear', vehicle=null, arg='', user=communication.UserImpl@25b4c1} успешно обработан.
+27.05.2021 23:38:01.924 [Thread-63] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:38:04.680 [pool-1-thread-3] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:38:04.783 [Thread-64] DEBUG  c.ServerCommandManager - Выполнен запрос ASK_VEHICLE для info
+27.05.2021 23:38:04.784 [Thread-64] INFO   c.ServerConnectionManager - Запрос Request{type=ASK_VEHICLE, command='info', vehicle=null, arg='null', user=communication.UserImpl@341982} успешно обработан.
+27.05.2021 23:38:04.785 [Thread-65] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
+27.05.2021 23:38:04.785 [pool-1-thread-4] DEBUG  c.ServerConnectionManager - Соединение с клиентом установлено.
+27.05.2021 23:38:04.922 [Thread-66] DEBUG  c.ServerCommandManager - Выполнена команда: info
+27.05.2021 23:38:04.923 [Thread-66] INFO   c.ServerConnectionManager - Запрос Request{type=EXECUTE, command='info', vehicle=null, arg='', user=communication.UserImpl@10c7be6} успешно обработан.
+27.05.2021 23:38:04.923 [Thread-67] DEBUG  c.ServerConnectionManager - Ответ клиенту отправлен.
